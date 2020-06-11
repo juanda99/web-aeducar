@@ -1,0 +1,9 @@
+.textField {
+  margin-top: 2rem;
+  width: 30px;
+  background-color: yellow;
+}
+.button {
+  margin-top: 20px;
+  display: none;
+}

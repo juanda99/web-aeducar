@@ -1,0 +1,62 @@
+[
+  {
+    "cp": "ANA ABARCA DE BOLEA",
+    "asesor": "HÉCTOR BANZO FORTUÑO",
+    "email": "hectorbanzo@cphuesca.es"
+  },
+  {
+    "cp": "Ejea de los caballeros",
+    "asesor": "IVÁN HEREDIA URZÁIZ",
+    "email": "ivan.heredia@cpejea.es"
+  },
+  {
+    "cp": "Alcorisa",
+    "asesor": "JAVIER PADRÓS ESPAÑOL",
+    "email": "direccion@formacionalcorisa.es"
+  },
+  {
+    "cp": "Juan de Lanuza",
+    "asesor": "CARMEN JULVE TIESTOS",
+    "email": "carmenjulve@formacionlanuza.es"
+  },
+  {
+    "cp": "Calatayud",
+    "asesor": "JOSÉ RAMÓN OLALLA CELMA",
+    "email": "jrolalla@profesoradocalatayud.es"
+  },
+  {
+    "cp": "Calatayud",
+    "asesor": "NURIA CARNICERO GONZÁLEZ",
+    "email": "ncarnicero@profesoradocalatayud.es"
+  },
+  {
+    "cp": "Sabiñanigo",
+    "asesor": "Carlos Álvarez Lanzarote",
+    "email": "calvarez@cifesabinanigo.es"
+  },
+  {
+    "cp": "La Almunia",
+    "asesor": "Marcos Piazuelo Rodríguez",
+    "email": "marcospiazuelo86@gmail.com"
+  },
+  {
+    "cp": "La Almunia",
+    "asesor": "Judit Campos Báguena",
+    "email": "jucamposba@gmail.com"
+  },
+  {
+    "cp": "CP María de Ávila",
+    "asesor": "Luis Lorente Gracia",
+    "email": "luislorente@espaciomariadeavila.es"
+  },
+  {
+    "cp": "CP Monzón",
+    "asesor": "Susana Puyelo Ceresuela",
+    "email": "centroprofesoradomonzon@gmail.com"
+  },
+  {
+    "cp": "CP Ángel San Briz",
+    "asesor": "Marta Tortajada Pérez",
+    "email": "asesoriadigital@formacionteruel.es"
+  }
+]
