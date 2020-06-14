@@ -62,7 +62,7 @@ module.exports = {
         ],
       },
     },
-    `gatsby-plugin-feed-mdx`,
+    // `gatsby-plugin-feed-mdx`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-styled-components`,
     {
@@ -73,6 +73,9 @@ module.exports = {
     }
   ],
   siteMetadata: {
-    title: 'My page',
+    title: 'Aeducar',
+    description: 'Plataforma educativa aeducar',
+    siteUrl: 'https://aeducar.es'
   },
 };
+

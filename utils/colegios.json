@@ -1,4646 +1,3577 @@
 [
   {
     "name": "CRA VERO-ALCANADRE (Adahuesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP ASUNCIÓN PAÑART MONTANER (Ainsa)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP JOSÉ MANUEL BLECUA (Alcolea de Cinca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP SANTOS SAMPER SARASA (Almudevar)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CPI RAMÓN Y CAJAL (Ayerbe)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP FRANCISCO GALIAY SARAÑANA (Ballobar)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP ALTO ARAGÓN (Barbastro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP LA MERCED (Barbastro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPRI-INPRISE SAN VICENTE DE PAÚL (Barbastro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPRI-INPRISE SAN JOSÉ DE CALASANZ (Barbastro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "IES HERMANOS ARGENSOLA (Barbastro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP VÍCTOR MENDOZA MENDOZA (Binefar)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPRI-INPRISE VIRGEN DEL ROMERAL (Binefar)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP VIRGEN DE LA SOLEDAD (Bolea)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "EH DE BOLTAÑA (Boltaña)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CRA ALTO ARA (Broto)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CEIP CERBÍN (Campo)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP LOS ARAÑONES (Canfranc-Estacion)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CEIP RAMÓN J. SENDER (Chalamera)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP MIGUEL SERVET (Fraga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP SAN JOSÉ DE CALASANZ (Fraga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPRI-INPRISE SANTA ANA (Fraga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP LITERA (Litera)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "IES RAMÓN J. SENDER (Fraga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP LA FUEVA (Tierrantona)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP SANTIAGO APÓSTOL (Grañen)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP JOAQUÍN COSTA (Graus)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "IES BALTASAR GRACIÁN (Graus)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP JUAN XXIII (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP PÍO XII (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP SANCHO RAMÍREZ (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP SAN VICENTE (Huesca)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF SAN JOSÉ (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CPRI-INPRISE SANTA ANA (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CPRI-INPRISE SAN BERNARDO (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CPRI-INPRISE SANTA ROSA-ALTOARAGÓN (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CPRI-INPRISE SAN VIATOR (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CPIFP MONTEARAGÓN (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "IES RAMÓN Y CAJAL (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "IES PIRÁMIDE (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "IES SIERRA DE GUARA (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP ALCORAZ (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP SAN JUAN DE LA PEÑA (Jaca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CPRI-INPRISE ESCUELAS PÍAS (Jaca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "IES DOMINGO MIRAL (Jaca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "EH DE JACA (Jaca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "ECA INSTITUTO DE FORMACIÓN AGROAMBIENTAL (Jaca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CRA MONEGROS NORTE (Lanaja)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP SAN GINÉS (Lupiñen)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP JOAQUÍN COSTA (Monzon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPRI-ES SANTO DOMINGO SAVIO (Monzon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPRI-INFPRI SANTA ANA (Monzon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPRI-INFPRI MINTE (Monzon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "IES JOSÉ MOR DE FUENTES (Monzon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP SAN GREGORIO (Ontiñena)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CRA CINCA-CINQUETA (Plan)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP MONTECORONA (Sabiñanigo)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CEIP PUENTE SARDAS (Sabiñanigo)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CPRI-INFPRI SANTA ANA (Sabiñanigo)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "IES SAN ALBERTO MAGNO (Sabiñanigo)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CEIP MIGUEL SERVET (Senegue)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CEIP LA LAGUNA (Sariñena)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP ALBERTO GALINDO (Sena)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP SAN MIGUEL (Tamarite de Litera)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP COLLARADA (Villanua)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CEIP MIGUEL SERVET (Villanueva de Sigena)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP SAN JUAN BAUTISTA (Zaidin)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "IES MARTÍNEZ VARGAS (Barbastro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP EL PARQUE (Huesca)",
-    "url": ""
-  },
-  {
-    "name": "ESTADMI SERVICIO PROVINCIAL (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "IES LUCAS MALLADA (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP MONTE OROEL (Jaca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CEIP ARAGÓN (Monzon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "IES BAJO CINCA (Fraga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "IES BIELLO ARAGÓN (Sabiñanigo)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CEIP PEDRO I (Barbastro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPRI-FPE NUESTRA SEÑORA DE GUAYENTE (Sahun)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPEPA MIGUEL HERNÁNDEZ (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "IES MONEGROS-GASPAR LAX (Sariñena)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP VIRGEN DE LOS RÍOS (Caldearenas)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CPIFP SAN LORENZO (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CONSPROFMUS ANTONIO VIÑUALES GRACIA (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "EARTE DE HUESCA (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEE LA ALEGRÍA (Monzon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP PEDRO J. RUBIO (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "EOI DE HUESCA (Huesca)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUSDAN PILAR BAYONA (Jaca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP VALLE DEL GUARGA (Aineto)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS ESCUELA DE MÚSICA (Binefar)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CONSPROFMUS MIGUEL FLETA (Monzon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "IES SIERRA DE SAN QUÍLEZ (Binefar)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "IES LA LLITERA (Tamarite de Litera)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "IES SOBRARBE (Ainsa)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP DE PAÚLES DE SARSA (Paules de Sarsa)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CONSPROFMUS DE SABIÑÁNIGO (Sabiñanigo)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CPEPA LITERA (Tamarite de Litera)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPEPA CINCA MEDIO (Monzon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPEPA JACETANIA (Jaca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CPEPA RIBAGORZA (Graus)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPEPA SOBRARBE (Boltaña)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPEPA ALTO GÁLLEGO (Sabiñanigo)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CPEPA MONEGROS (Sariñena)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "EOI IGNACIO LUZÁN (Monzon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EOI DE SABIÑÁNIGO (Sabiñanigo)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CRA LA LLITERA (Albelda)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CRA MONTESNEGROS (Peñalba)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CRA A REDOLADA (Peralta de Alcofea)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CRA BAJA RIBAGORZA (Capella)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CRA ESTADILLA-FONZ (Fonz)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CRA MONTEARAGÓN (Chimillas)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CRA ALTO GÁLLEGO (Biescas)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CRA EL TRÉBOL (Binaced)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "IES PIRINEOS (Jaca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CRA RÍO ARAGÓN (Santa Cilia)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CRA RIBERA DEL CINCA (Torrente de Cinca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CRA DE ALTORRICÓN (Altorricon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CRA ARCO IRIS (Conchel)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CRA ALBEOS (Belver de Cinca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CRA VIOLADA MONEGROS (Tardienta)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CRA LA SABINA (Robres)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CRA MONEGROS-HOYA (Lalueza)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CRA ALTA RIBAGORZA (Benasque)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EPUBMUS INSTITUTO MUSICAL COMARCAL (Fraga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPEPA SOMONTANO (Barbastro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPEPA BAJO CINCA (Fraga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPRI-INF PATI (Fraga)",
-    "url": ""
-  },
-  {
-    "name": "SEC-IES PIRÁMIDE (Almudevar)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "IES DE CASTEJÓN DE SOS (Castejon de Sos)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "IES MONTES NEGROS (Grañen)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "IES CINCA-ALCANADRE (Alcolea de Cinca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "SEC-IES BIELLO ARAGÓN (Biescas)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "CPRI-ES VALLE DE BENASQUE (Benasque)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPRI-EE SAN JORGE (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "EEI DE SALLENT DE GÁLLEGO (Sallent de Gallego)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "EXT-EOI DE MONZÓN (Fraga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EOI RÍO VERO (Barbastro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EXT-EOI DE SABIÑÁNIGO (Jaca)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF LAS OCAS (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "EEI LO NIU (Albelda)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF CLUB MINNIE (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "ESUPCOREBICU DE ARAGÓN (Huesca)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-DEPOR ESCUELA ESPAÑOLA DE ESQUÍ (Candanchu)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "EEI LA COMETA (Esplus)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI EL PÍ (Altorricon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI CARDELINA (Sabiñanigo)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "EPUBMUS ESCUELA DE MÚSICA (Barbastro)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-FPE ARTE-MISS HUESCA (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPRI-DEPOR ESCUELA DE MONTAÑA DE BENASQUE (Benasque)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI LA MAINADA (Castejon de Sos)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF PARCHÍS (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI EL TAMARINDO (Tamarite de Litera)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI DE JACA (Jaca)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF PASITO A PASO (Huesca)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF ZIMBEL (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "EEI CONCEPCIÓN BAÑERES (Binefar)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA CANTERA (Tierz)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPRI-INF ENCANTARIA (Barbastro)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE BIESCAS (Biescas)",
-    "url": ""
-  },
-  {
-    "name": "EEI LUPITA (Vencillon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI NININS (Graus)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA FONTANETA (Ayerbe)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI ABABOL (Binaced)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI LA MAINADA (Benasque)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP PIRINEOS-PYRÉNÉES (Huesca)",
-    "url": ""
-  },
-  {
-    "name": "EEI TRIAMOLETA (Panticosa)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "EPUBMUS DE ALTORRICÓN (Altorricon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI LA CANALLA (Benabarre)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI @S`CRI@S (Almudevar)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS DE GURREA DE GÁLLEGO (Gurrea de Gallego)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CPRI-DEPOR ESCUELA DE MONTAÑA DE ALQUÉZAR (Alquezar)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF KID'S GARDEN HUESCA (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI XIQUETS (Fraga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI SANTA MARGARITA (Osso de Cinca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI DE BELVER DE CINCA (Belver de Cinca)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE GURREA DE GÁLLEGO (Gurrea de Gallego)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF ALBADA (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EPUBMUS JOSÉ MARÍA CAMPO (Ainsa)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI LAS PAJARITAS (Huesca)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE NUENO (Nueno)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "EEI DE BARBASTRO (Barbastro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI DE PERALTA DE ALCOFEA (Peralta de Alcofea)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI DE PUENTE LA REINA DE JACA (Puente la Reina de Jaca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "EEI DE ALCAMPELL (Alcampell)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI VALLE DE BIELSA (Bielsa)",
-    "url": ""
-  },
-  {
-    "name": "EEI ANDARINES (Monflorite)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI DE FONZ (Fonz)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI DE BALLOBAR (Ballobar)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI NINONES (Boltaña)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI LA CASITA BLANCA (Canfranc-Estacion)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE CANAL DE BERDÚN (Berdun)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE VILLANÚA (Villanua)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE ROBRES (Robres)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE FRULA (Frula)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE LALUEZA (Lalueza)",
-    "url": ""
-  },
-  {
-    "name": "EEI ARBOLEDA (Tardienta)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE LANAJA (Lanaja)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE GRAÑÉN (Grañen)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "EEI DE SARIÑENA (Sariñena)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "EEI CLARA CAMPOAMOR (Monzon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI DE TORRENTE DE CINCA (Torrente de Cinca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPIFP PIRÁMIDE (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "EEI DE LA COMARCA DE SOBRARBE (Ainsa)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI CHAVALINES (Fiscal)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "EEI SANTA CATALINA (Alcolea de Cinca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI ATALIA (Almunia de San Juan)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE PEÑALBA (Peñalba)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS VILLA DE TARDIENTA (Tardienta)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI TREVIÑER (Adahuesca)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE SENA (Sena)",
-    "url": ""
-  },
-  {
-    "name": "EEI MARÍA SÁNCHEZ ARBÓS (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI VIRGEN DEL ROSARIO (Chimillas)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE BROTO (Broto)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CEIP MONZÓN III (Monzon)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-DEPOR CENTRO DE FORMACIÓN EDUCATIVA FUNDACIÓN (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EXT-EOI DE MONZÓN (Binefar)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPRI-INF COTONET (Fraga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP MARÍA MOLINER (Fraga)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-DEPOR INTERNATIONAL COACHES EDUCATION (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CONSMPROMUS DE FRAGA (Fraga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EXT-EOI RÍO VERO (Ainsa)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-PROFMUS BRAVO! ESPACIO DE MÚSICA (Huesca)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE VILLANUEVA DE SIJENA (Villanueva de Sigena)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE SODETO (Sodeto)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EEI DE BOLTAÑA (Boltaña)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP KATIA ACÍN (Binefar)",
-    "url": ""
-  },
-  {
-    "name": "EXT-EOI RÍO VERO (Benasque)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CPI DE BENABARRE (BENABARRE)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP DE ARÉN (ARÉN)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP DE MONTANUY (MONTANUY)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPUB LA PAZ (Barbastro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "GUARDINFPUB NUESTRA SEÑORA DE SAN LORENZOS (Huesca)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPUB NUESTRA SEÑORA DE LA ALEGRÍA (Monzon)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPUB SANTA MARÍA LA BLANCA (Berbegal)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPUB DE LASPUÑA (Laspuña)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI DUMBO (Barbastro)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI BABY EXPRESS (Fraga)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI EL RELOJ (Fraga)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI PINOCHO (Jaca)",
-    "url": ""
-  },
-  {
-    "name": "CPR DE GRAUS (Graus)",
-    "url": ""
-  },
-  {
-    "name": "CP ANA ABARCA DE BOLEA (HUESCA)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "CP DE MONZÓN (MONZÓN)",
-    "url": ""
-  },
-  {
-    "name": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EOES INF-PRI. DE FRAGA (Fraga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EOES INF-PRI. DE GRAUS (Graus)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "EOES INF-PRI. DE HUESCA (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "EOES INF-PRI. SUBSEDE DE SABIÑÁNIGO EN JACA (Jaca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "EOES INF-PRI. DE MONZÓN (Monzon)",
-    "url": ""
-  },
-  {
-    "name": "EOES INF-PRI. DE SABIÑÁNIGO (Sabiñanigo)",
-    "url": ""
-  },
-  {
-    "name": "EOES INF-PRI. SUBSEDE DE GRAUS EN BOLTAÑA (Boltaña)",
-    "url": ""
-  },
-  {
-    "name": "CPR DE FRAGA (Fraga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CRECURSOS BUBAL-PROGRAMA PUEBLOS ABANDONADOS (Biescas)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)"
   },
   {
     "name": "EOEPATTEMPR DE HUESCA (Huesca)",
-    "url": ""
+    "url": "",
+    "cp": "CP ANA ABARCA DE BOLEA (HUESCA)"
   },
   {
     "name": "EOEPATTEMPR DE MONZÓN (Monzon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CRIE DE BENABARRE (Benabarre)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE MONZÓN (MONZÓN)"
   },
   {
     "name": "CEIP ROMÁN GARCÍA (Albalate del Arzobispo)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP EMILIO DÍAZ (Alcañiz)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CPRI-INPRISE SAN VALERO (Alcañiz)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CPRI-INPRISE LA INMACULADA (Alcañiz)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP EL JUSTICIA DE ARAGÓN (Alcorisa)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP JUAN RAMÓN ALEGRE (Andorra)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP RICARDO MALLÉN (Calamocha)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CEIP VIRGEN DEL PILAR (Calanda)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP ASTRÓNOMO ZARZOSO (Cella)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CEIP ANTONIO GARGALLO MOYA (Escucha)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP LUIS TURÓN (Hijar)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP VALERO SERRANO (Mas de las Matas)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP NTRA. SRA. DEL PILAR (Monreal del Campo)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CEIP COMARCA CUENCAS MINERAS (Montalban)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP SAN MIGUEL (Mora de Rubielos)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRA TERUEL UNO (Perales del Alfambra)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CEIP DE SARRIÓN (Sarrion)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CPIFP DE SAN BLAS (San Blas)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE LA SALLE-SAN JOSÉ (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CPRI-INPRISE LAS VIÑAS (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CEIP PIERRES VEDEL (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CEIP MIGUEL VALLÉS (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CEIP LAS ANEJAS (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CPRI-INPRISE VICTORIA DÍEZ (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CPRI-INPRISE LA PURÍSIMA Y SANTOS MÁRTIRES (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "IES SANTA EMERENCIANA (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "IES SEGUNDO DE CHOMÓN (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "IES VEGA DEL TURIA (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "IES FRANCÉS DE ARANDA (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CEE ARBOLEDA (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "EH DE TERUEL (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CEIP ENSANCHE (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "EARTE ESCUELA DE ARTE DE TERUEL (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CEIP VILLA DE UTRILLAS (Utrillas)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP VICENTE FERRER RAMOS (Valderrobres)",
-    "url": ""
-  },
-  {
-    "name": "ESTADMI SERVICIO PROVINCIAL (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "IES VALLE DEL JILOCA (Calamocha)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "EH DE CANTAVIEJA (Cantavieja)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CPEPA ISABEL DE SEGURA (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CEE GLORIA FUERTES (Andorra)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CONSPROFMUS DE TERUEL (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "IES PEDRO LAÍN ENTRALGO (Hijar)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP LA FUENFRESCA (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "EOI DE TERUEL (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CONSPROFMUS JOSÉ PERIS LACASA (Alcañiz)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "EOI DE ALCAÑIZ (Alcañiz)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA REGALLO (Puigmoreno)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA JAVALAMBRE (Manzanera)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRA SIERRA DE ALBARRACÍN (Tramacastilla)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "IES FERNANDO LÁZARO CARRETER (Utrillas)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP MANUEL FRANCO ROYO (Andorra)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CPEPA RÍO GUADALOPE (Alcañiz)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "IES MATARRAÑA (Valderrobres)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUSDAN ESCUELA DE MÚSICA Y DANZA DE ANDORRA (Andorra)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA MAESTRAZGO GÚDAR (Mosqueruela)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRA TURIA (San Blas)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "IES PABLO SERRANO (Andorra)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "IES SALVADOR VICTORIA (Monreal del Campo)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRA PABLO ANTONIO CRESPO (Aliaga)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA GOYA (Caminreal)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRA ALTO MAESTRAZGO (Cantavieja)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRA SOMONTANO-BAJO ARAGÓN (La Mata de los Olmos)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA PALMIRA PLÁ (Cedrillas)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRA ARIÑO-ALLOZA (Ariño)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA OLEA (Castellote)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA ALIFARA (La Fresneda)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA TASTAVÍNS (Peñarroya de Tastavins)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA DE MARTÍN DEL RÍO (Martin del Rio)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA DE MUNIESA (Muniesa)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA PÓRTICO DE ARAGÓN (Rubielos de Mora)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRA DE ALBARRACÍN (Albarracin)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRA BAJO MARTÍN (La Puebla de Hijar)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA DEL MEZQUÍN (Castelseras)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CPEPA DE ALCORISA (Alcorisa)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CPEPA DE VALDERROBRES (Valderrobres)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CPEPA DE RUBIELOS DE MORA (Rubielos de Mora)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CPEPA JILOCA (Calamocha)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CPEPA DE CELLA (Cella)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CPEPA CUENCA MINERA (Montalban)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS VIRGEN DE LOS PUEYOS (Alcañiz)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA MATARRANYA (Calaceite)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA CUNA DEL JILOCA (Santa Eulalia)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "IES DAMIÁN FORMENT (Alcorisa)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "IES VALLE DEL GUADALOPE (Calanda)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "IES GÚDAR-JAVALAMBRE (Mora de Rubielos)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "IES SIERRA PALOMERA (Cella)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRA ALGARS (Cretas)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS ESCUELA DE MÚSICA (Calanda)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRA CAMPO BELLO (Bello)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRA ERAS DEL JILOCA (El Poyo del Cid)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "IES BAJO ARAGÓN (Alcañiz)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "SEC-IES SEGUNDO DE CHOMÓN (Cantavieja)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "IES LOBETANO (Albarracin)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUSDAN ESCUELA DE MÚSICA Y DANZA (Monreal del Campo)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CPEPA DE ANDORRA (Andorra)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS ESCUELA DE MÚSICA (Alcorisa)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CPIFP ESCUELA DE HOSTELERÍA Y TURISMO DE TERUE (Teruel)",
-    "url": ""
-  },
-  {
-    "name": "EXT-EOI DE TERUEL (Monreal del Campo)",
-    "url": ""
-  },
-  {
-    "name": "EXT-EOI DE TERUEL (Utrillas)",
-    "url": ""
-  },
-  {
-    "name": "EXT-EOI DE TERUEL (Calamocha)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA MALENA (Andorra)",
-    "url": ""
-  },
-  {
-    "name": "EXT-ESUPDIS DE TERUEL (Teruel)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF VEO-VEO (Alcañiz)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF DUMBO (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CEIP JUAN SOBRARIAS (Alcañiz)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE ALCORISA (Alcorisa)",
-    "url": ""
-  },
-  {
-    "name": "EEI LOS MONCHONES (Valdealgorfa)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE CALANDA (Calanda)",
-    "url": ""
-  },
-  {
-    "name": "EEI SANTA BÁRBARA (Castelseras)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS DE VALDERROBRES (Valderrobres)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF SOLETES (Alcañiz)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE OJOS NEGROS (Ojos Negros)",
-    "url": ""
-  },
-  {
-    "name": "EEI SAGALETS (AULA DE MAZALEÓN) (Mazaleon)",
-    "url": ""
-  },
-  {
-    "name": "EEI EL PARQUE (Cedrillas)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP JUAN LORENZO PALMIRENO (Alcañiz)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS ANTÓN GARCÍA ABRIL. CIUDAD DE TERUEL (Teruel)",
-    "url": ""
-  },
-  {
-    "name": "EEI SAGALETS (AULA DE LA FRESNEDA) (La Fresneda)",
-    "url": ""
-  },
-  {
-    "name": "EEI SAGALETS (AULA DE FUENTESPALDA/FONTDESPA (Fuentespalda)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA CODOÑERA (La Codoñera)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE MONTALBÁN (Montalban)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE TORRECILLA DE ALCAÑIZ (Torrecilla de Alcañiz)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA SELVETA (Alcañiz)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS SALVADOR SALVADOR NAVARRO (Escucha)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE UTRILLAS (Utrillas)",
-    "url": ""
-  },
-  {
-    "name": "EEI RICARDA GONZALO DE LIRIA (Monreal del Campo)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF MAFALDA-LAS VIÑAS (Teruel)",
-    "url": ""
-  },
-  {
-    "name": "EEI EL CASTILLO (Hijar)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE ALBALATE DEL ARZOBISPO (Albalate del Arzobispo)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE ALBARRACÍN (Albarracin)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA REPLACETA (Foz-Calanda)",
-    "url": ""
-  },
-  {
-    "name": "EEI SANTA ENGRACIA (Mosqueruela)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE TERUEL (SAN BLAS) (San Blas)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE CANTAVIEJA (Cantavieja)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE SARRIÓN (Sarrion)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE VILLARQUEMADO (Villarquemado)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE LA PUEBLA DE HÍJAR (La Puebla de Hijar)",
-    "url": ""
-  },
-  {
-    "name": "EEI PRIMEROS PASOS (Calamocha)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE CALACEITE (Calaceite)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE RUBIELOS DE MORA (Rubielos de Mora)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE TERUEL (BARRIO ARRABAL) (Teruel)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE VALDERROBRES (Valderrobres)",
-    "url": ""
-  },
-  {
-    "name": "EEI SAGALETS (AULA DE VALJUNQUERA) (Valjunquera)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE SANTA EULALIA (Santa Eulalia)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE TERUEL (VILLASPESA) (Villaspesa)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CPIFP BAJO ARAGÓN (Alcañiz)",
-    "url": ""
-  },
-  {
-    "name": "EEI SEÑORA PABLA (Urrea de Gaen)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE LA MATA DE LOS OLMOS (La Mata de los Olmos)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE AGUAVIVA (Aguaviva)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "EEI DE BRONCHALES (Bronchales)",
-    "url": ""
-  },
-  {
-    "name": "EEI SAGALETS (AULA DE MONROYO) (Monroyo)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS DE CALACEITE (Calaceite)",
-    "url": ""
-  },
-  {
-    "name": "EEI SAGALETS (AULA DE CRETAS) (Cretas)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE MAS DE LAS MATAS (Mas de las Matas)",
-    "url": ""
-  },
-  {
-    "name": "EEI PEQUEÑALBA (Villastar)",
-    "url": ""
-  },
-  {
-    "name": "EEI SARGANTESA (Cella)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF SNOOPY (Teruel)",
-    "url": ""
-  },
-  {
-    "name": "EEI SAGALETS (AULA DE BECEITE) (Beceite)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "RES-SEC SANTA EMERENCIANA (Teruel)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF GAG CU CU-TRAS TRAS (Teruel)",
-    "url": ""
-  },
-  {
-    "name": "EEI SAGALETS (AULA DE LA PORTELLADA) (La Portellada)",
-    "url": ""
-  },
-  {
-    "name": "EPRI-MUSDAN LAS TORRES (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRA BRONCHALES-ORIHUELA (Orihuela del Tremedal)",
-    "url": ""
-  },
-  {
-    "name": "EEI SAGALETS (AULA DE VALDELTORMO) (Valdeltormo)",
-    "url": ""
-  },
-  {
-    "name": "EXT-EOI DE ALCAÑIZ (Calanda)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CPEPA HERMANAS CATALÁN DE OCÓN (La Iglesuela del Cid)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF INFANTIL 0-3 LA PURÍSIMA MONTESSORI (Teruel)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE MEZQUITA DE JARQUE (Mezquita de Jarque)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-DEPOR ARAMÓN JAVALAMBRE-VALDELINARES FORMACIÓN (Teruel)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPUB SANTO ÁNGEL CUSTODIO (Alcañiz)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPUB DE MORA DE RUBIELOS (Mora de Rubielos)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI CUEVA SANTA (Teruel)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI MAFALDA (Teruel)",
-    "url": ""
-  },
-  {
-    "name": "C.Profesorado ÁNGEL SANZ BRIZ-TERUEL (SUBSEDE ALCAÑÍZ) (Alcañiz)",
-    "url": ""
-  },
-  {
-    "name": "CP ÁNGEL SANZ BRIZ (TERUEL)",
-    "url": ""
-  },
-  {
-    "name": "CPR DE UTRILLAS (Utrillas)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "EOES INF-PRI DE ALCAÑIZ (ALCAÑIZ)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "EOES INF-PRI. DE CANTAVIEJA (Cantavieja)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "EOES INF-PRI. DE TERUEL (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "EOES INF-PRI. DE UTRILLAS (Utrillas)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "EOES INF-PRI DE ANDORRA (ANDORRA)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "EOES INF-PRI. DE CALAMOCHA (Calamocha)",
-    "url": ""
-  },
-  {
-    "name": "CPR DE ANDORRA (Andorra)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRIE ALCORISA (Alcorisa)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CRIE ALBARRACIN (Albarracin)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "CRIE CALAMOCHA (Calamocha)",
-    "url": ""
-  },
-  {
-    "name": "CP CATEDU (ALCORISA)",
-    "url": ""
-  },
-  {
-    "name": "CP DE ALCORISA (ALCORISA)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "EOEPATTEMPR DE TERUEL (Teruel)",
-    "url": ""
+    "url": "",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)"
   },
   {
     "name": "EOEPATTEMPR DE ALCAÑIZ (Alcañiz)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE ALCORISA (ALCORISA)"
   },
   {
     "name": "CEIP ARAGÓN (Alagon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CPRI-INPRISE NTRA. SRA DEL CASTILLO (Alagon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "IES CONDE ARANDA (Alagon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP BRIANDA DE LUNA (Alfajarin)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP ARZOBISPO DOMÉNECH (Almonacid de la Sierra)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CEIP NERTÓBRIGA (La Almunia de Doña Godina)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CPRI-ES SALESIANOS LAVIAGA-CASTILLO (La Almunia de Doña Godina)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CEIP RAMÓN Y CAJAL (Alpartir)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CEIP VIRGEN DE LA PEANA (Ateca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CEIP BELIA (Belchite)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF SAN RAFAEL (Belchite)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP CAMPO DE BORJA (Borja)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SANTA ANA (Borja)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES JUAN DE LANUZA (Borja)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP DIPUTACIÓN PROVINCIAL (Brea de Aragon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CEIP BALTASAR GRACIÁN (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CEIP FRANCISCO DE GOYA (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CEIP SALVADOR MINGUIJÓN (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CPRI-INPRISE SANTA ANA (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "IES LEONARDO DE CHABACIER (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "IES EMILIO JIMENO (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CDM ACADEMIA DE LOGÍSTICA DEL EJÉRCITO DE TI (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CEIP DOMINGO JIMÉNEZ BELTRÁN (Calatorao)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CEIP SANTO CRISTO DE SANTIAGO (Cariñena)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES JOAQUÍN COSTA (Cariñena)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP COMPROMISO DE CASPE (Caspe)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SANTA ANA (Caspe)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP LUCIO FABIO SEVERO (Chiprana)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP PEDRO SÁNCHEZ CIRUELO (Daroca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "EH PUERTA DE ZARAGOZA (Daroca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CEIP CERVANTES (Ejea de los Caballeros)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP FERRER Y RACAJ (Ejea de los Caballeros)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CPRI-INPRISE NTRA. SRA. DE LAS MERCEDES (Ejea de los Caballeros)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CPRI-FPE E.F.A. BOALARES (Ejea de los Caballeros)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "IES REYES CATÓLICOS (Ejea de los Caballeros)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP GASPAR REMIRO (Epila)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CEIP SAN JAVIER (Escatron)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP NTRA. SRA. DEL PILAR (Fayon)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP LUIS GARCÍA SÁINZ (Fuentes de Ebro)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPI MARÍA DOMÍNGUEZ (Gallur)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP SAN JORGE (Herrera de los Navarros)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP BENEDICTO XIII (Illueca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CEIP RAMÓN Y CAJAL (La Joyosa)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP VIRGEN DEL PORTAL (Maella)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP MANLIA (Mallen)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP MARÍA QUINTANA (Mequinenza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP LUCAS ARRIBAS (Morata de Jalon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CEIP SAN NICASIO (Novillas)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP LA PORTALADA (Pastriz)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP CERVANTES (Pedrola)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CPRI-INPRISE SANTA MARÍA DE LA ESPERANZA (Pina de Ebro)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP MIGUEL ARTIGAS (Pinseque)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-FPE E.F.A. LA NORIA (Pinseque)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CEIP JOAQUÍN COSTA (Pradilla de Ebro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP LOS ALBARES (La Puebla de Alfinden)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP FERNANDO EL CATÓLICO (Quinto)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP ALFREDO MUIÑOS (Remolinos)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP MAESTRO MONREAL (Ricla)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CEIP DANIEL FEDERIO (Sastago)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP SUBPRADEL (Sobradiel)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP ISIDORO GIL DE JAZ (Sos del Rey Catolico)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "EH MANUELA PÉREZ DE BIEL (Sos del Rey Catolico)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP JOAQUÍN COSTA (Tarazona)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SAGRADA FAMILIA (Tarazona)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE NTRA. SRA. DEL PILAR (Tarazona)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP MONCAYO (Tarazona)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP ALFONSO I EL BATALLADOR (Tauste)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP MONTES DEL CASTELLAR (Torres de Berrellen)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP TOSOS (Tosos)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP DE UNDUÉS DE LERDA (Undues de Lerda)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP MIGUEL ARTAZOS TAMÉ (Utebo)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP PINTOR PRADILLA (Villanueva de Gallego)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP SAN BLAS (Villanueva de Huerva)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP FERNANDO EL CATÓLICO (Villarreal de Huerva)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CEIP ÁNGEL ESCORIAZA (Cartuja Baja)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INFPRI VIRGEN DE GUADALUPE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INPRISE SANSUEÑA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SAGRADA FAMILIA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE MADRE MARÍA ROSA MOLAS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INPRISE BRITÁNICO DE ARAGÓN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP RICARDO MUR (Casetas)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INFPRI SAN MIGUEL (Casetas)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP GUSTAVO ADOLFO BÉCQUER (Garrapinillos)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP JULIÁN NIETO TAPIA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-EE SAN ANTONIO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INPRISE SAN ALBERTO MAGNO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP HERMANOS ARGENSOLA (Montañana)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP FERNÁNDEZ VIZARRA (Monzalbarba)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP MAESTRO DON PEDRO ORÓS (Movera)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP JUAN PABLO BONET (Movera)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPIFP DE MOVERA (Movera)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CEIP FLORENCIO JARDIEL (Peñaflor)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP ANDRÉS OLIVÁN (San Juan de Mozarrifar)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP GUILLERMO FATÁS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE LA CONCEPCIÓN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES ÍTACA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE CONDES DE ARAGÓN (Venta del Olivar)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP MARIANO CASTILLO (Villamayor de Gallego)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP ANA MAYAYO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP ANDRÉS MANJÓN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP RECARTE Y ORNAT (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP CÁNDIDO DOMINGO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP DOMINGO MIRAL (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP FERNANDO EL CATÓLICO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP GASCÓN Y MARÍN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP JERÓNIMO BLANCAS Y TOMÁS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP JERÓNIMO ZURITA Y CASTRO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP JOAQUÍN COSTA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP JOSÉ MARÍA MIR (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPI LA JOTA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP JULIÁN SANZ IBÁÑEZ (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP LUIS VIVES (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP MARCOS FRECHÍN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP SAN BRAULIO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP SANTO DOMINGO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP SAN JOSÉ DE CALASANZ (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP TÍO JORGE (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP CALIXTO ARIÑO-HILARIO VAL (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP EMILIO MORENO CALVETE (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP HILARIÓN GIMENO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP JUAN XXIII (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP TOMÁS ALVIRA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP BASILIO PARAÍSO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES VIRGEN DEL PILAR (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-PRI ADVENTISTA RIGEL (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP LA ALMOZARA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE LA ANUNCIATA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE EL BUEN PASTOR (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE CALASANCIO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE CALASANZ (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE CARDENAL XAVIERRE (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE CANTÍN Y GAMBOA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE COLEGIO MONTESSORI (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE COMPAÑÍA DE MARÍA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE CRISTO REY (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF LENGUATRAPO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF DIVINA PASTORA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE DON BOSCO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INPRISE LICEO EUROPA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-EXTRAN LYCÉE FRANÇAIS MOLIÈRE (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE ESCUELAS PÍAS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE ESCOLAPIAS SANTA ENGRACIA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE PADRE ENRIQUE DE OSSÓ (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE MARÍA INMACULADA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INFPRI LA SALLE FRANCISCANAS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE HIJAS DE SAN JOSÉ (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE INMACULADA CONCEPCIÓN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF JESÚS REPARADOR (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF MADRE DE DIOS DE BEGOÑA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INPRISE MARÍA AUXILIADORA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE LA MILAGROSA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-PRISEC MONTEARAGÓN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INPRISE AGUSTÍN GERICÓ (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE NTRA. SRA. DEL CARMEN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE NTRA. SRA. DEL CARMEN Y SAN JOSÉ (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE NTRA. SRA. DE LA MERCED (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SALESIANO NTRA. SRA.DEL PILAR (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE TERESIANO DEL PILAR (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE EL PILAR-MARISTAS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE POMPILIANO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-EE LA PURÍSIMA PARA NIÑOS SORDOS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE LA PURÍSIMA Y SAN ANTONIO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SAGRADO CORAZÓN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SAGRADO CORAZÓN DE JESÚS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-ES LA SALLE FRANCISCANAS GRAN VÍA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE LA SALLE MONTEMOLÍN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INTFP LA SALLE-SANTO ANGEL (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SAN AGUSTÍN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SAN ANTONIO DE PADUA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF BOSQUE TERNURA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-EE ATADES, CENTRO DE EDUCACIÓN ESPECIAL SAN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-ES SAN VALERO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SAN VICENTE DE PAÚL (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SANTA ANA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SANTA MAGDALENA SOFÍA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SANTA MARÍA DEL PILAR (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SANTA MARÍA REINA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SANTA ROSA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE OBRA DIOCESANA SANTO DOMINGO DE SILOS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE VILLA CRUZ (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE BAJO ARAGÓN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES CORONA DE ARAGÓN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP EUGENIO LÓPEZ Y LÓPEZ (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES MIGUEL SERVET (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES RAMÓN PIGNATELLI (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES GOYA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES JERÓNIMO ZURITA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES PEDRO DE LUNA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE ROMAREDA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-PRI ESCOLANÍA INFANTES DEL PILAR (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP CESÁREO ALIERTA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP DOCTOR AZÚA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP CÉSAR AUGUSTO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP MARGARITA SALAS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES EL PORTILLO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES LUIS BUÑUEL (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "EARTE DE ZARAGOZA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP ODÓN DE BUEN (Zuera)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INFPRI NUESTRA SEÑORA DEL PILAR (Zuera)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE SAN GABRIEL (Zuera)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-FPE E.F.A. EL SALTO (Zuera)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CPRI-EE CEDES (San Gregorio)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES MARÍA MOLINER (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-FPE CEFOR IZQUIERDO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CEIP AUGUSTA BÍLBILIS (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CEIP RECTOR MAMÉS ESPERABÉ (Ejea de los Caballeros)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP RAMIRO SOLÁNS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "ESTADMI SERVICIO PROVINCIAL (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES RÍO ARBA (Tauste)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP SANTA ENGRACIA (Santa Engracia)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CPRI-EE SAN GERMÁN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP RAMÓN Y CAJAL (Cuarte de Huerva)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INPRISE ANTONIO MACHADO (Venta del Olivar)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-ES LICEO EUROPA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-FPE PLUS ULTRA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "IES CINCO VILLAS (Ejea de los Caballeros)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF HEIDI (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "IES JOSÉ MANUEL BLECUA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES PABLO GARGALLO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP TORRE RAMONA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES FÉLIX DE AZARA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-FPE SANTA AGATOCLIA (Mequinenza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-EPA O.S.C.U.S. (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "IES AVEMPACE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INPRISE JUAN DE LANUZA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP JOSÉ CAMÓN AZNAR (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP ZALFONADA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP TENERÍAS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP LAS FUENTES (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP GLORIA ARENILLAS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP MARÍA MOLINER (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-EE LOS PUEYOS (Villamayor de Gallego)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP RAMÓN SÁINZ DE VARANDA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES BENJAMÍN JARNÉS (Fuentes de Ebro)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES RÍO GÁLLEGO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP MIRAFLORES (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES GALLICUM (Zuera)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-EE MARÍA-SORIANO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-EPA CODEF (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP LA ESTRELLA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "EOI Nº 1 (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP ANTONIO MARTÍNEZ GARAY (Casetas)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-FPE ACADEMIA MARCO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CEIP MONSALUD (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPEPA CONCEPCIÓN ARENAL (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-FPE ALAÚN (Alagon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "IES PEDRO CERRADA (Utebo)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES PABLO SERRANO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES MIRALBUENO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-FPE CONDES DE ARAGÓN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CEIP HERMANOS MARX (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP HISPANIDAD (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP PUERTA DE SANCHO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP SANTA ANA (Mainar)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CPRI-INPRISE EL SALVADOR (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES COMUNIDAD DE DAROCA (Daroca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CEIP INFANTA ELENA (Utebo)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES FRANCISCO GRANDE COVIÁN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPIFP LOS ENLACES (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CONSSUPMUS DE ARAGÓN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEE ALBORADA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP RÍO EBRO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS PABLO BRUNA (Daroca)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-ELEMUS ADAGIO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP CIUDAD DE ZARAGOZA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP CORTES DE ARAGÓN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES SANTIAGO HERNÁNDEZ (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES TIEMPOS MODERNOS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES CABAÑAS (La Almunia de Doña Godina)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "IES ELAIOS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES PILAR LORENGAR (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "EOI FERNANDO LÁZARO CARRETER (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP ALEJO LORÉN ALBAREDA (Caspe)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPEPA MARCO VALERIO MARCIAL (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CPEPA RICARDO SOLA ALMAU (Cariñena)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPEPA JOAQUÍN COSTA (Caspe)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPEPA EXEA (Ejea de los Caballeros)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CPEPA EMILIO NAVARRO (Utebo)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPEPA MIGUEL HERNÁNDEZ (Casetas)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPEPA MARGEN IZQUIERDA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPEPA JUAN JOSÉ LORENTE (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "EOI JOHAN FERRÁNDEZ D'HEREDIA (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "EOI DE EJEA DE LOS CABALLEROS (Ejea de los Caballeros)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-ELEMUS SANTA CECILIA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CONSPROFMUS DE TARAZONA (Tarazona)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES ANDALÁN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES MIGUEL DE MOLINOS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES SIERRA DE LA VIRGEN (Illueca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "IES MEDINA ALBAIDA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES RODANAS (Epila)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CPEPA EL PÓSITO (Tarazona)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "EOI DE UTEBO (Utebo)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "EOI DE TARAZONA (Tarazona)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INPRISE LA ALFRANCA (Movera)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES ÁNGEL SANZ BRIZ (Casetas)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES SIGLO XXI (Pedrola)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CPRI-INPRISE SAGRADO CORAZÓN-MONCAYO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CRA CUEVAS DEL JALÓN (Lumpiaque)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CRA EL ENEBRO (Sabiñan)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CRA ARANDA-ISUELA (Gotor)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CRA TRES RIBERAS (Maluenda)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CRA RÍO RIBOTA (Aniñon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CRA EL MIRADOR (Villalengua)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CRA MESA-PIEDRA-ALTO CAMPILLO (Ibdes)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CRA CERRO DE SANTA CRUZ (Used)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CRA L' ALBARDÍN (Azuara)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CRA MONLORA (Erla)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CRA BÉCQUER (Novallas)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CRA ÍNSULA BARATARIA (Luceni)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CRA LUIS BUÑUEL (Pinsoro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "IES ZAURÍN (Ateca)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CONSPROFMUS DE ZARAGOZA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPI CASTILLO QADRIT (Cadrete)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CRA LAS VIÑAS (Fuendejalon)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP MATEO VALERO (Alfamen)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CRA PUERTA DE ARAGÓN (Ariza)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CRA L' ALBADA (Bujaraloz)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CRA MARÍA MOLINER (El Burgo de Ebro)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CRA FABARA-NONASPE DOS AGUAS (Fabara)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CRA DEL EBRO (Gelsa)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CRA VICORT-ISUELA (El Frasno)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CRA LA HUECHA (Magallon)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CRA ORBA (Muel)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CRA LA CEPA (Paniza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CRA LA SABINA (Villafranca de Ebro)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CRA LOS BAÑALES (Sadaba)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CRA BAJO GÁLLEGO (Leciñena)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPEPA DE FUENTES DE EBRO (Fuentes de Ebro)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPEPA GÓMEZ LAFUENTE (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPEPA CASA CANAL (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPEPA ALFINDÉN (La Puebla de Alfinden)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPEPA DE LA ALMUNIA DE DOÑA GODINA (La Almunia de Doña Godina)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CPEPA DE DAROCA (Daroca)",
-    "url": ""
-  },
-  {
-    "name": "CONSELEMUS CONSERVATORIO MUNICIPAL ELEMENTAL MÚSICA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CONSPROFDAN CONSERVATORIO MUNICIPAL PROFESIONAL DE D (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "IES TUBALCAÍN (Tarazona)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES MIGUEL CATALÁN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEE RINCÓN DE GOYA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUSDAN ESCUELA DE MÚSICA Y DANZA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES RAMÓN Y CAJAL (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP ANTONIO BELTRÁN MARTÍNEZ (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-FPE CPA-SALDUIE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EPRI-MUS SANTA MARÍA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-PROFMUS CITTÁ DI ROMA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF TIC TAC (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-FPE MARCO ALDANY TALLER DE PELUQUEROS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-ELEMUS ANGEL MINGOTE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-ELEMUS RUBINSTEIN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES BAIX MATARRANYA (Maella)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES VALLE DEL HUECHA (Mallen)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES JOAQUÍN TORRES (Mequinenza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "SEC-IES REYES CATÓLICOS (Sadaba)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "SEC-IES BENJAMÍN JARNÉS (Sastago)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "SEC-IES BENJAMÍN JARNÉS (Belchite)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES SABINA ALBAR (Bujaraloz)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES MAR DE ARAGÓN (Caspe)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF PELUCHE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF GARRAPINIÑOS (Garrapinillos)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-FPE VALLE DE TENA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-FPE ARTE-MISS ZARAGOZA, CENTRO 1 (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CEIP JOSÉ ANTONIO LABORDETA SUBÍAS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF CHIQUITINES II (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP JOSEFA AMAR Y BORBÓN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI VILLACAMPA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF ANDARINES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF EDUCANDO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EPRI-MUSDAN ALMOZARA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "EEI DE BIOTA (Biota)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-ELEMUS ACTUR (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-SUPDIS CENTRO DE DISEÑO HACER CREATIVO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EPRI-MUSDAN FEDERICO CHOPÍN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CPI PARQUE GOYA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF PEQUEAYUD (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-FPE ARSENIO JIMENO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EXT-EOI Nº 1 (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EXT-EOI FERNANDO LÁZARO CARRETER (Zuera)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "EXT-EOI DE ALCAÑIZ (Caspe)",
-    "url": ""
-  },
-  {
-    "name": "EEI ZAGALICOS (Herrera de los Navarros)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "EEI CALATORINES (Calatorao)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF FUNDACIÓN EL REFUGIO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF NTRA. SRA. DE LOS DOLORES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS MIGUEL ARNAUDAS (Alagon)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS ESCUELA DE MÚSICA (Utebo)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF NUESTRA SEÑORA DE LA ROSA (Casetas)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF ALDEAS INFANTILES SOS DE ESPAÑA (Villamayor de Gallego)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF BOLANDRINA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS ESCUELA DE MÚSICA (Ejea de los Caballeros)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF EL CARMEN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF SIERVAS DE LOS POBRES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS ESCUELA DE MÚSICA (Pina de Ebro)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS JOSÉ DE NEBRA (Calatayud)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF NUESTRA SEÑORA DE LA PAZ (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF LA VIRGEN NIÑA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "ESUPDIS DE ARAGÓN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI BALLARÍN GAY (Pinseque)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF EL MANZANO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEE ANGEL RIVIÈRE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF CHICOTES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI JUNQUICOS (La Puebla de Alfinden)",
-    "url": ""
-  },
-  {
-    "name": "EPRI-MUS PABLO NASSARRE (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "EPUBMUS ESCUELA DE MÚSICA (La Almunia de Doña Godina)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CEIP GIL TARÍN (La Muela)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CEIP PARQUE EUROPA (Utebo)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF CHIP Y CHOP (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-FPE OCÉANO ATLÁNTICO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-DEPOR CENTRO NACIONAL DE ESTUDIOS E INVESTIGAC (Utebo)",
-    "url": ""
-  },
-  {
-    "name": "EEI PIRINEOS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI LOS VIENTOS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "EEI DE LA ALMUNIA DE DOÑA GODINA (La Almunia de Doña Godina)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE TAUSTE (Tauste)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE SANTA ENGRACIA (Santa Engracia)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE SABIÑÁN (Sabiñan)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF PEQUES (San Mateo de Gallego)",
-    "url": ""
-  },
-  {
-    "name": "EPRI-MUS ENCLAVE DE AR-T (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA COMETA (Utebo)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS ESCUELA MUNICIPAL DE MÚSICA (Uncastillo)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE ALAGÓN (Alagon)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF LA CARTUJA BAJA (Cartuja Baja)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CEIP EL POMILLO (Ainzon)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP DIEGO ESCOLANO (Longares)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP PABLO LUNA (Alhama de Aragon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CEIP RAMÓN Y CAJAL (Pina de Ebro)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE MALLÉN (Mallen)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS DE GALLUR (Gallur)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP MONTECANAL (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI LAS BALSAS (Zuera)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "EEI DE CASPE (Caspe)",
-    "url": ""
-  },
-  {
-    "name": "EEI PINOCHO (Daroca)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-DEPOR CENTRO NACIONAL DE ESTUDIOS DE TÉCNICOS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-EXTRAN ZARAGOZA SCHOOLHOUSE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI ARCO-IRIS (Cadrete)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS EVARISTO BERNAL (Villanueva de Gallego)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF CU CU-TAS TAS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE ESCATRÓN (Escatron)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE TARAZONA (Tarazona)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF EL TREN CHU-CHU (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF EL DUENDE DEL BOSQUE (Casetas)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP AGUSTINA DE ARAGÓN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPI EL ESPARTIDERO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES LA AZUCARERA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP REINO DE ARAGÓN (La Puebla de Alfinden)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPI GALO PONTE (San Mateo de Gallego)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP SAN ROQUE (Maria de Huerva)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA COMETA (El Burgo de Ebro)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF EL BARQUITO DE PAPEL (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI BLANCANIEVES (Maluenda)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE BOQUIÑENI (Boquiñeni)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE BREA DE ARAGÓN (Brea de Aragon)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "EEI NERTÓBRIGA (Ricla)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF MI MUNDO (Maria de Huerva)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "EEI DE SÁDABA (Sadaba)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "EEI ISABEL DE ARAGÓN (Epila)",
-    "url": ""
-  },
-  {
-    "name": "EEI NUESTRA SEÑORA DE LORETO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF PATINETE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF MI COLE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF PEQUEÑOS MAESTROS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI FRANCISCA GIL DE LA RIVA (Mores)",
-    "url": ""
-  },
-  {
-    "name": "EEI COLORADO COLORÍN (Ariza)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE MAELLA (Maella)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE QUINTO (Quinto)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CEIP OCTAVUS (Utebo)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEE JEAN PIAGET (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP LUCIEN BRIET (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EPRI-MUSDAN MOLINER (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF ÉRASE UNA VEZ (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA RUELLA (Mequinenza)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA PARVADICA (Sobradiel)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA PIRAÑA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF ZAGALICOS (Utebo)",
-    "url": ""
-  },
-  {
-    "name": "EEI ARCO IRIS (Cariñena)",
-    "url": ""
-  },
-  {
-    "name": "EPRI-MUS LA PAZ (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF PEQUEÑOS MAESTROS AZUCARERA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CEIP VALDESPARTERA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP MARIE CURIE (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPI RÍO SENA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPI ROSALES DEL CANAL (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP FORO ROMANO (Cuarte de Huerva)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF ZARAPEQUES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI BALTASAR GONZÁLEZ (Borja)",
-    "url": ""
-  },
-  {
-    "name": "EEI ZAGALICOS (Villanueva de Gallego)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "EEI GLORIA FUERTES (Ejea de los Caballeros)",
-    "url": ""
-  },
-  {
-    "name": "EEI EL TREN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI LOS IBONES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI BRIOLETAS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI MARÍA URREA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA PAZ (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF EL ARKA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF ZAGALINES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE FUENDEJALÓN (Fuendejalon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "IES CLARA CAMPOAMOR RODRÍGUEZ (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES TORRE DE LOS ESPEJOS (Utebo)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE FUENTES DE EBRO (Fuentes de Ebro)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF LAS TORRES DE MONTECANAL (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE NOVILLAS (Novillas)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE JARABA (Jaraba)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "EEI EL CASTILLO (Almonacid de la Sierra)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF PEDUGUINES (La Puebla de Alfinden)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF JUEGO Y APRENDO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF CHIQUILINES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE LUCENI (Luceni)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA CUNICA (La Joyosa)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-FPE LUIS MANUEL GARCÍA URREA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF LA JOTA 2 (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI CHIRIBILLAS (Alfamen)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "EEI DE ALPARTIR (Alpartir)",
-    "url": ""
-  },
-  {
-    "name": "EEI GARABATOS (Belchite)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE MORATA DE JALÓN (Morata de Jalon)",
-    "url": ""
-  },
-  {
-    "name": "EEI PASICOS (Muel)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE ONTINAR DE SALZ (Ontinar de Salz)",
-    "url": ""
-  },
-  {
-    "name": "EEI RENACUAJOS (Pastriz)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE UNCASTILLO (Uncastillo)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA ESTRELLA (Utebo)",
-    "url": ""
-  },
-  {
-    "name": "EEI LOS ZAGALES (Villafranca de Ebro)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF RISETAS (Utebo)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF KID'S GARDEN REYES DE ARAGÓN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI GARNACHICA (Ainzon)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA SOLANA (Ateca)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE LECIÑENA (Leciñena)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE PERDIGUERA (Perdiguera)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE BUJARALOZ (Bujaraloz)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE COSUENDA (Cosuenda)",
-    "url": ""
-  },
-  {
-    "name": "EEI SAN JUAN BAUTISTA (Illueca)",
-    "url": ""
-  },
-  {
-    "name": "EEI ARCO-IRIS (Magallon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "EEI DE PEDROLA (Pedrola)",
-    "url": ""
-  },
-  {
-    "name": "EEI POMPITAS (San Mateo de Gallego)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP CATALINA DE ARAGÓN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPIFP CORONA DE ARAGÓN (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "CEIP VADORREY-LES ALLÉES (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "IES DE LA PUEBLA DE ALFINDÉN (La Puebla de Alfinden)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF MAGIC FOREST (Utebo)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF MONIGOTES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI EL BOSQUE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI EL ANDÉN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI LAS HABLILLAS (Cuarte de Huerva)",
-    "url": ""
-  },
-  {
-    "name": "EEI PALMAS PALMITAS (Maria de Huerva)",
-    "url": ""
-  },
-  {
-    "name": "EEI LA CUEVA ENCANTADA (Alfajarin)",
-    "url": ""
-  },
-  {
-    "name": "EEI ZAGALINES (Alhama de Aragon)",
-    "url": ""
-  },
-  {
-    "name": "EEI MARGARITA (Calatayud)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE LÉCERA (Lecera)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE LONGARES (Longares)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE LA DELEGACIÓN ESPECIAL DE ECONOMÍA Y (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI GLORIA FUERTES-BARDENAS (Bardenas)",
-    "url": ""
-  },
-  {
-    "name": "EEI GLORIA FUERTES-PINSORO (Pinsoro)",
-    "url": ""
-  },
-  {
-    "name": "EEI GLORIA FUERTES-SANTA ANASTASIA (Santa Anastasia)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF NENETES (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPI JULIO VERNE (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES VALDESPARTERA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI ZAGALICOS (Aguaron)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE LUMPIAQUE (Lumpiaque)",
-    "url": ""
-  },
-  {
-    "name": "EEI EL JARDINCILLO (Paniza)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE TORRES DE BERRELLÉN (Torres de Berrellen)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPI SAN JORGE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI LAS FÁBULAS (Cuarte de Huerva)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES DE VILLANUEVA DE GÁLLEGO (Villanueva de Gallego)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF SALTARINES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE PINA DE EBRO (Pina de Ebro)",
-    "url": ""
-  },
-  {
-    "name": "EEI PARQUE BRUIL (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPRI-INTFP FUNDACIÓN LABORAL DE LA CONSTRUCCIÓN (Villanueva de Gallego)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF EL NIDO DE PATRICIA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS VILLA DE ZUERA (Zuera)",
-    "url": ""
-  },
-  {
-    "name": "EEI CANTACUCOS (Novallas)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-DEPOR CENTRO NACIONAL DE ESTUDIOS DE TÉCNICOS (Ejea de los Caballeros)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF IR CRECIENDO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE SÁSTAGO (Sastago)",
-    "url": ""
+    "url": "",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)"
   },
   {
     "name": "EEI DE LA MUELA (La Muela)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF PLANETA IMAGINARIO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CPI VAL DE LA ATALAYA (Maria de Huerva)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF KID'S GARDEN ACTUR (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-DEPOR CENTRO DE ENSEÑANZAS DEPORTIVAS-ENTEDE (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPI ZARAGOZA SUR (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP PILAR BAYONA (Cuarte de Huerva)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF DADA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP FLORIÁN REY (La Almunia de Doña Godina)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF REINO MENUDO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "IES DE LA MUELA (La Muela)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF MI CASITA EN EL JARDÍN (Nuez de Ebro)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "CPRI-INPRISE INTERNACIONAL ÁNFORA (Cuarte de Huerva)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPRI-FPE ANDRÉS GARDE ERIKSON (Calatayud)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF BARQUITOS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "CEE SEGEDA (Calatayud)",
-    "url": ""
-  },
-  {
-    "name": "EPUBMUS DE SOS DEL REY CATÓLICO (Sos del Rey Catolico)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF SMALL WORLD (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF LUNA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF NUVOLA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF LITTLE LANUZA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF BOSQUE TERNURA 2 (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF MONTESSORI KIDS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-FPE ARTE-MISS ZARAGOZA, CENTRO 2 (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF BALÚ (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "IES EL PICARRAL (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": " MODERNO SANTA MARÍA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPUBENSDEP ESCUELA ARAGONESA DEL DEPORTE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF ARQUERITOS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "CPI ARCOSUR (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPI VALDESPARTERA III (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-DEPOR PARQUE DEL AGUA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EXT-EOI PABLO GARGALLO (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPI PARQUE VENECIA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI DE LA ALMOLDA (La Almolda)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CPI SOLEDAD PUÉRTOLAS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EXT-EOI DE UTEBO (Pedrola)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF PEQUEÑOS VENECIANOS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-FPE FORMACCIONA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "EEI ALMADA (Villarreal de Huerva)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "IES MARTINA BESCÓS (Cuarte de Huerva)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-DEPOR ESCUELA ARAGONESA DE ENTRENADORES DE ATL (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF NUNÚ BEBÉ (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF NANYLAND PARQUE VENECIA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-DEPOR CENTRO NACIONAL DE ESTUDIOS DE TÉCNICOS (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CEIP DE FIGUERUELAS (Figueruelas)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF ISABELINOS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF NEMOMARLIN PASEO DE SAGASTA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-EPA ADUNARE-VALDEFIERRO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPI ANA MARÍA NAVALES (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "CEIP MARÍA ZAMBRANO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF CANTINELA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-PROFMUS ACAMÚSICA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF NANYLAND HISPANIDAD (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF DUENDECILLOS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-INF ARCO IRIS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPRI-EPA ADUNARE-DELICIAS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPUB NUESTRA SEÑORA DEL CARMEN (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "GUARDINFPUB VIRGEN DE LA OLIVA (Ejea de los Caballeros)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "GUARDINFPUB SAN ANTONIO DE PADUA (Gallur)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPUB ARAGÓN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPUB INMACULADA CONCEPCIÓN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPUB MONSALUD (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPUB SANTA MARÍA DEL PILAR (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPUB LO FORN (Nonaspe)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPUB DE REMOLINOS (Remolinos)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI NTRA. SRA. DE LOURDES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI LA CARIDAD (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI MAFALDA (Calatayud)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI BAMBI-CASETAS (Casetas)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI CLARA DE ASIS (San Juan de Mozarrifar)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI ARCO IRIS (Utebo)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI DISNEY (Villanueva de Gallego)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI LA GUARDE (Villanueva de Gallego)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI CENTRO INFANTIL APOYO Y RECREO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI AITANA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI ALIERTA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI ANGELITOS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI CHAVALICOS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI CHICOS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI CHUPETIN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI EL PARAISO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI EL PORTILLO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI EL PRINCIPITO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI ESPAÑOL (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI PUZZLE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI KIKO-KIKO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI LA COMETA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI LOS ANDES 1 (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI LOS ANDES 3 (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI LUCAS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI MIRAFLORES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI PANDA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI PARDAL (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI PATINETE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI PETER PAN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI PETETE (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI QUERUBIN 2 (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI QUERUBIN (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI VIRGEN NIÑA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI BURBUJAS (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI CHITTY (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI DUMBO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI SAGASTA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI MAFALDA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI CHIQUITINES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI COLORINES (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI EL GARABATO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI MAFALDA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI MAFALDA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI ROSA'S (Utebo)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI ALAMEDA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI RUSIÑOL (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "GUARDINFPRI WALT DISNEY (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CP DE CALATAYUD (CALATAYUD)",
-    "url": ""
-  },
-  {
-    "name": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)",
-    "url": ""
-  },
-  {
-    "name": "CP JUAN DE LANUZA (ZARAGOZA)",
-    "url": ""
-  },
-  {
-    "name": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)",
-    "url": ""
-  },
-  {
-    "name": "CP MARÍA DE ÁVILA (ZARAGOZA)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "EOES INF-PRI. DE ALAGÓN (Alagon)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "EOES INF-PRI. DE CALATAYUD (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "EOES INF-PRI. DE CASPE (Caspe)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "EOES INF-PRI. DE EJEA DE LOS CABALLEROS (Ejea de los Caballeros)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "EOES INF-PRI. DE LA ALMUNIA DE DOÑA GODINA (La Almunia de Doña Godina)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE LA ALMUNIA (LA ALMUNIA DE DOÑA GODINA)"
   },
   {
     "name": "EOES INF-PRI. DE TARAZONA (Tarazona)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "EOES INF-PRI. NÚMERO 4 DE ZARAGOZA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "EOES INF-PRI. NÚMERO 1 DE ZARAGOZA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "EOES INF-PRI. NÚMERO 2 DE ZARAGOZA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "EOES INF-PRI. NÚMERO 3 DE ZARAGOZA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "EOES INF-PRI. DE FUENTES DE EBRO (Fuentes de Ebro)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "CRIE VENTA DEL OLIVAR (Venta del Olivar)",
-    "url": ""
-  },
-  {
-    "name": "CP CAREI (ZARAGOZA)",
-    "url": ""
-  },
-  {
-    "name": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "EOES INF-PRI. NÚMERO 5 DE ZARAGOZA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "E.E.O.Educativa E.ESPEC. DISCAP. FÍS.: MOTOR. Y ORGÁNICA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "E.E.O.Educativa TRASTORNOS GRAVES DEL DESARROLLO (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "E.E.O.Educativa TRASTORNO MENTAL Y DE LA CONDUCTA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CP CARLEE (ZARAGOZA)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "EOEPATTEMPR DE ZARAGOZA (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   },
   {
     "name": "EOEPATTEMPR DE CALATAYUD (Calatayud)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE CALATAYUD (CALATAYUD)"
   },
   {
     "name": "EOEPATTEMPR DE EJEA DE LOS CABALLEROS (Ejea de los Caballeros)",
-    "url": ""
-  },
-  {
-    "name": "E.O.E.ConvivenE DE ZARAGOZA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "C.Profesorado CENTRO DE EVALUACIÓN FORMACIÓN Y CALIDAD (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": "CPR CENTRO ARAGONES PARA LA COMUNICACIÓN A A (Zaragoza)",
-    "url": ""
+    "url": "",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)"
   },
   {
     "name": "E.E.O.Educativa EN TRASTORNOS DEL ESPECTRO AUTISTA (Zaragoza)",
-    "url": ""
-  },
-  {
-    "name": " SERVICIOS CENTRALES (ZARAGOZA)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": " CENTRO INFANTOJUVENIL DE SALUD MENTAL MOVERA (MOVERA)",
-    "url": ""
+    "url": "",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)"
   },
   {
     "name": "AHOSP AULAS HOSPITALARIAS (ZARAGOZA)",
-    "url": ""
-  },
-  {
-    "name": " AULARAGON (CATEDU)",
-    "url": ""
-  },
-  {
-    "name": "UPE UNIDAD DE PROGRAMAS EDUCATIVOS (ZARAGOZA)",
-    "url": ""
-  },
-  {
-    "name": "CP CAREA (ZARAGOZA)",
-    "url": ""
-  },
-  {
-    "name": " CENTRO INFANTOJUVENIL DE SALUD MENTAL PARQUE GOYA (ZARAGOZA)",
-    "url": ""
-  },
-  {
-    "name": "SAD SERVICIO DE ATENCION DOMICILIARIA (ZARAGOZA)",
-    "url": ""
-  },
-  {
-    "name": "ONCE AULA CONVENIO CON LA ONCE (ZARAGOZA)",
-    "url": ""
+    "url": "",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)"
   }
 ]

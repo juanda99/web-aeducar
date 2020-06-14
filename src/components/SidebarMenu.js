@@ -77,6 +77,7 @@ class SidebarMenu extends Component {
     return (
       <Menu isOpen={menuOpen} onStateChange={(state) => this.handleStateChange(state)} styles={styles} pageWrapId={'page-wrap'} outerContainerId={'outer-container'} right={false}>
         <Link onClick={this.closeMenu} to="/" style={styles.menuItem}>Inicio</Link>
+        <Link onClick={this.closeMenu} to="/solicitud" style={styles.menuItem}>Solicitar aeducar</Link>
         <Link onClick={this.closeMenu} to="/noticias" style={styles.menuItem}>Noticias</Link>
         <Link onClick={this.closeMenu} to="/faq" style={styles.menuItem}>Preguntas frecuentes</Link>
         <Link onClick={this.closeMenu} to="/contactar" style={styles.menuItem}>Contactar</Link>
