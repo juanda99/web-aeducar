@@ -4,6 +4,8 @@ import ReactLeafletKml from 'react-leaflet-kml';
 import kmlData from '../data/aragonKML.js'
 import cifes from '../data/cifes.json'
 
+const DOMParser = require('xmldom').DOMParser;
+
 const parser = new DOMParser();
 const kml = parser.parseFromString(kmlData, 'text/xml');
 
