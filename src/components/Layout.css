@@ -1,14 +1,19 @@
-html, body {
-  height: 100%;
-}
-body {
-  display: flex;
-  flex-direction: column;
-} 
 
-main {
-  flex: 1 0 auto;
+path.leaflet-interactive {
+  opacity: 0.2 !important;  
 }
+
+#page-wrap {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+#siteContent {
+  flex-grow: 1;
+}
+
 footer {
-  flex-shrink: 0;
+  background-color: darkgray;
+  margin-top: 30px;
 }

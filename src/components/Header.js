@@ -21,11 +21,11 @@ export default function Header() {
 `)
 
   return (
-    <Paper elevation={7} style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-      <div style={{ width: '50%', maxWidth: '663px' }}>
+    <Paper elevation={7} style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: '70px', background: "url('banda.png') no-repeat" }}>
+      {/* <div style={{ width: '50%', maxWidth: '663px', backgroundImage: url("banda.png"); }}>
         <Img alt='' fluid={data.banda.childImageSharp.fluid} />
-      </div>
-      <div>
+      </div> */}
+      <div style={{ position: 'absolute', top: '16px', right: '20px' }}>
         <img alt='Gobierno de Aragón' src={logo} style={{ width: 167, height: 40 }} />
       </div>
     </Paper>

@@ -37,6 +37,7 @@
     "react-helmet": "latest",
     "react-hook-form": "^5.7.2",
     "react-leaflet": "^2.7.0",
+    "react-leaflet-kml": "^1.0.4",
     "react-motion": "^0.5.2",
     "react-simple-chatbot": "^0.6.1",
     "styled-components": "^5.1.1"

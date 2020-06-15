@@ -30,7 +30,6 @@ export default function SearchSchool() {
   };
 
   const handleLoadSchool = () => {
-    console.log('click!', school.url)
     if (school.url) window.location = school.url
     else setOpen(true)
 

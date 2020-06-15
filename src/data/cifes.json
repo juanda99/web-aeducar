@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Centro Profesorado Ángel Sanz Briz",
+    "address": "Calle Atarazana, 11, 44003 Teruel",
+    "tel": "+34978618460",
+    "position": [
+      40.3531126,
+      -1.1152296
+    ]
+  },
+  {
+    "name": "Centro Profesorado María de Ávila",
+    "address": "Paseo Reyes de Aragón, 20, 50012 Zaragoza",
+    "tel": "+34976563646",
+    "position": [
+      41.6255131,
+      -0.9087582
+    ]
+  },
+  {
+    "name": "Centro Profesorado Juan de Lanuza",
+    "address": "Calle Buen Pastor, 4, 50003 Zaragoza",
+    "tel": "+34976395550",
+    "position": [
+      41.6560102,
+      -0.8844851
+    ]
+  },
+  {
+    "name": "Centro Profesorado Ana Abarca Bolea",
+    "address": "Calle Sancho Ramírez, 24, 22001 Huesca",
+    "tel": "+34974227361",
+    "position": [
+      42.1369166,
+      -0.4070864
+    ]
+  },
+  {
+    "name": "Centro Profesorado de Ejea de los Caballeros",
+    "address": "Plaza Goya, s/n, 50600 Ejea de los Caballeros, Zaragoza",
+    "tel": "+34976677160",
+    "position": [
+      42.1283174,
+      -1.1329304
+    ]
+  },
+  {
+    "name": "Centro Profesorado de Alcorisa",
+    "address": "Calle Cervantes, 1, 44550 Alcorisa, Teruel",
+    "tel": "+34978840357",
+    "position": [
+      41.382258,
+      -0.5416152
+    ]
+  },
+  {
+    "name": "Centro Profesorado de Calatayud",
+    "address": "Paseo Ramón y Cajal, 1, 50300 Calatayud, Zaragoza",
+    "tel": "+34976884356",
+    "position": [
+      41.3505163,
+      -1.6459194
+    ]
+  },
+  {
+    "name": "Centro Profesorado de Sabiñanigo",
+    "address": "Calle Luis Buñuel, 2, 22600 Sabiñánigo, Huesca  ",
+    "tel": "+34974481176",
+    "position": [
+      42.5186572,
+      -0.3680607
+    ]
+  },
+  {
+    "name": "Centro Profesorado de La Almunia de Doña Godina",
+    "address": "C/ La Paz, s/n, 50100 La Almunia de Doña Godina, Zaragoza",
+    "tel": "+34638854917",
+    "position": [
+      41.479760000000006,
+      -1.3772819999999997
+    ]
+  },
+  {
+    "name": "Centro Profesorado de Angel Sanz Briz",
+    "address": "Calle Atarazana, 11, 44003 Teruel",
+    "tel": "+34978618460",
+    "position": [
+      40.3527174,
+      -1.1150887
+    ]
+  }
+]

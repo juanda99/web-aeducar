@@ -8,7 +8,7 @@ export default function Solicitud({ data }) {
       <h1>Alta en aeducar</h1>
       <h2>¿Quién lo puede solicitar?</h2>
       <p>Cualquier centro público o concertado de la comunidad autónoma de Aragón, a través del director del centro educativo.</p>
-      <h2>¿Cuándo se solicita'</h2>
+      <h2>¿Cuándo se solicita?</h2>
       <p>El plazo de solicitudes está abierto permanentemente. Las primeras solicitudes se recogen a partir del 18 de junio de 2020
       y se resolverán a final de junio. El resto de solicitudes se resolverán conforme se vayan produciendo, a partir de septiembre.</p>
 

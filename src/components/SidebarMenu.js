@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { elastic as Menu } from 'react-burger-menu'
+import { slide as Menu } from 'react-burger-menu'
 // import { pushRotate as Menu } from 'react-burger-menu'
 
 import { Link } from "gatsby"
@@ -10,7 +10,7 @@ const styles = {
     width: '36px',
     height: '30px',
     left: '36px',
-    top: '26px'
+    top: '20px'
   },
   bmBurgerBars: {
     background: '#373a47'
@@ -27,7 +27,8 @@ const styles = {
   },
   bmMenuWrap: {
     position: 'fixed',
-    height: '100%'
+    height: '100%',
+    width: '100% !important'
   },
   bmMenu: {
     background: '#f44336',
@@ -77,10 +78,12 @@ class SidebarMenu extends Component {
     return (
       <Menu isOpen={menuOpen} onStateChange={(state) => this.handleStateChange(state)} styles={styles} pageWrapId={'page-wrap'} outerContainerId={'outer-container'} right={false}>
         <Link onClick={this.closeMenu} to="/" style={styles.menuItem}>Inicio</Link>
-        <Link onClick={this.closeMenu} to="/solicitud" style={styles.menuItem}>Solicitar aeducar</Link>
+        <Link onClick={this.closeMenu} to="/solicitud" style={styles.menuItem}>Alta en aeducar</Link>
+        <Link onClick={this.closeMenu} to="/asesoria" style={styles.menuItem}>Asesoría</Link>
+        <Link onClick={this.closeMenu} to="/repositorio-imagenes" style={styles.menuItem}>Repositorio de imágenes</Link>
+        <Link onClick={this.closeMenu} to="/repositorio-cursos" style={styles.menuItem}>Repositorio de cursos</Link>
         <Link onClick={this.closeMenu} to="/noticias" style={styles.menuItem}>Noticias</Link>
         <Link onClick={this.closeMenu} to="/faq" style={styles.menuItem}>Preguntas frecuentes</Link>
-        <Link onClick={this.closeMenu} to="/contactar" style={styles.menuItem}>Contactar</Link>
       </Menu>
     )
   }
