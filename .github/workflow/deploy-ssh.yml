@@ -1,0 +1,10 @@
+- name: Deploy to Staging server
+    uses: easingthemes/ssh-deploy@v2.0.7
+    env:
+      SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
+      ARGS: "-rltgoDzvO"
+      SOURCE: "public/"
+      REMOTE_HOST: ${{ secrets.AEDUCAR_HOST }}
+      REMOTE_USER: ${{ secrets.AEDUCAR_USER }}
+      REMOTE_PORT: ${{ secrets.AEDUCAR__PORT }}
+      TARGET: ${{ secrets.REMOTE_TARGET }}
