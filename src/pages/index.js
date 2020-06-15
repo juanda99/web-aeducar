@@ -13,7 +13,7 @@ export default function Index({ data }) {
       <img src={logo} style={{ width: 357, height: 40 }} />
       <Img
         fluid={data.file.childImageSharp.fluid}
-        alt="Captura pantalla aeducar"
+        alt="Captura pantalla plataforma educativa aeducar"
       />
       <h2>Acceder a aeducar</h2>
       <SearchSchool />
