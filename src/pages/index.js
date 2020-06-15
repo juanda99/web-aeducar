@@ -9,7 +9,7 @@ export default function Index({ data }) {
   return (
     <div>
       <h1>Aeducar</h1>
-      <h2>Plataforma de docencia online del Departamento de Educación, Cultura y Deporte del Gobierno de Aragón.</h2>
+      <p>Plataforma de docencia online del Departamento de Educación, Cultura y Deporte del Gobierno de Aragón.</p>
       <img src={logo} style={{ width: 357, height: 40 }} />
       <Img
         fluid={data.file.childImageSharp.fluid}
