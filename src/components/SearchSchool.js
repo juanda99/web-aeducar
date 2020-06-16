@@ -30,8 +30,10 @@ export default function SearchSchool() {
   };
 
   const handleLoadSchool = () => {
-    if (school.url) window.location = school.url
-    else setOpen(true)
+    if (typeof window !== 'undefined') {
+      if (school.url) window.location = school.url
+      else setOpen(true)
+    }
 
   }
 

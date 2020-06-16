@@ -8,7 +8,7 @@ import SearchSchool from '../components/SearchSchool'
 export default function Index({ data }) {
   return (
     <div>
-      <Container maxWidth="sm">
+      <Container maxWidth="xs">
         <h1 style={{ textAlign: 'center' }}>
           <Img
             fluid={data.logoFluid.childImageSharp.fluid}
@@ -18,14 +18,16 @@ export default function Index({ data }) {
       </Container>
       <Container maxWidth="md">
         <h2 style={{ textAlign: 'center', fontWeight: '200', fontStyle: 'italic' }}>Plataforma educativa del Departamento de Educación, Cultura y Deporte del Gobierno de Aragón.</h2>
-      </Container>
 
-      <Img
-        fluid={data.computerImage.childImageSharp.fluid}
-        alt="Captura pantalla plataforma educativa aeducar"
-      />
-      <h2 style={{ textAlign: 'center' }}>Acceder a aeducar</h2>
-      <SearchSchool />
+
+
+        <Img
+          fluid={data.computerImage.childImageSharp.fluid}
+          alt="Captura pantalla plataforma educativa aeducar"
+        />
+        <h2 style={{ textAlign: 'center' }}>Acceder a aeducar</h2>
+        <SearchSchool />
+      </Container>
     </div>
   );
 }

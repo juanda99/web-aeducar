@@ -29,8 +29,10 @@ export default function SearchAsesor() {
   };
 
   const handleLoadSchool = () => {
-    if (school.url) window.location = school.url
-    else setOpen(true)
+    if (typeof window !== 'undefined') {
+      if (school.url) window.location = school.url
+      else setOpen(true)
+    }
 
   }
 

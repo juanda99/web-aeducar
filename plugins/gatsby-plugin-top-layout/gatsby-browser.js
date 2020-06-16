@@ -9,17 +9,5 @@ export const wrapRootElement = ({ element }) => {
 };
 
 
-export const wrapPageElement = ({ element, ...restProps }, ...args) => {
-  return (
-    // <Layout name="wrapPageElement" props={{}} args={args} mode="browser">
-    // <Layout
-    //   name="wrapPageElement"
-    //   props={restProps}
-    //   args={args}
-    //   mode="browser"
-    // >
-    <Layout>
-      {element}
-    </Layout>
-  );
-};
+export const wrapPageElement = ({ element, props }) => <Layout {...props}>{element}</Layout>
+
