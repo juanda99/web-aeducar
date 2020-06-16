@@ -1,21 +1,30 @@
 import React from 'react';
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
+import Container from '@material-ui/core/Container';
 import SearchSchool from '../components/SearchSchool'
-import logo from '../images/logo-aeducar.svg'
 
 
 export default function Index({ data }) {
   return (
     <div>
-      <h1>Aeducar</h1>
-      <p>Plataforma de docencia online del Departamento de Educación, Cultura y Deporte del Gobierno de Aragón.</p>
-      <img src={logo} style={{ width: 357, height: 40 }} />
+      <Container maxWidth="sm">
+        <h1 style={{ textAlign: 'center' }}>
+          <Img
+            fluid={data.logoFluid.childImageSharp.fluid}
+            alt="Captura pantalla plataforma educativa aeducar"
+          />
+        </h1>
+      </Container>
+      <Container maxWidth="md">
+        <h2 style={{ textAlign: 'center', fontWeight: '200', fontStyle: 'italic' }}>Plataforma educativa del Departamento de Educación, Cultura y Deporte del Gobierno de Aragón.</h2>
+      </Container>
+
       <Img
-        fluid={data.file.childImageSharp.fluid}
+        fluid={data.computerImage.childImageSharp.fluid}
         alt="Captura pantalla plataforma educativa aeducar"
       />
-      <h2>Acceder a aeducar</h2>
+      <h2 style={{ textAlign: 'center' }}>Acceder a aeducar</h2>
       <SearchSchool />
     </div>
   );
@@ -23,12 +32,26 @@ export default function Index({ data }) {
 
 export const query = graphql` 
   query {
-    file(relativePath: { eq: "captura-portatil-aeducar.png" }) {
+    computerImage: file(relativePath: { eq: "captura-portatil-aeducar.png" }) {
       childImageSharp {
-        fluid {
+        fluid(maxWidth: 600) {
           ...GatsbyImageSharpFluid
         }
-      }
-    }
+      }   
+    },
+    logoAeducar: file(relativePath: { eq: "aeducar.png" }) {
+        childImageSharp {
+          fixed(width: 257, height: 29) {
+            ...GatsbyImageSharpFixed
+          }
+        }
+      },
+    logoFluid: file(relativePath: { eq: "aeducar.png" }) {
+      childImageSharp {
+        fluid(maxWidth: 500) {
+          ...GatsbyImageSharpFluid
+        }
+      }   
+    },
   }
 `

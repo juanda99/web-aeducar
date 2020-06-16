@@ -41,8 +41,6 @@ export default function RepositorioImagenes({ data }) {
     <img key={node.publicURL} src={node.publicURL} style={{ width: '200px', height: 'auto', margin: '20px' }} />
   ))
 
-  console.log(filters, '******************')
-
   return (
     <div>
       <h1>Repositorio de imágenes</h1>
