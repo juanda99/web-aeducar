@@ -27,8 +27,7 @@ const styles = {
   },
   bmMenuWrap: {
     position: 'fixed',
-    height: '100%',
-    width: '100% !important'
+    height: '100%'
   },
   bmMenu: {
     background: '#f44336',
