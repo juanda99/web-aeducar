@@ -30,7 +30,7 @@ export default function Layout({ children }) {
             {children}
           </Container>
           <footer>
-            <p>Pruegba ajf ñaljk ñadlfkj adñljadñfj adfñlkajdf adkjf  afja dfñja fñjakf ñasjkf añlfkj añfjkañf jalfkj aslñkdlfj adslkfjasdklf after('ñadjfñlakdjfañdfj  </p>
+            <p>Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar</p>
           </footer>
         </div>
         <ThemeProvider theme={theme}>
