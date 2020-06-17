@@ -8,7 +8,7 @@ export default function Header() {
 
   const data = useStaticQuery(graphql`
   query {
-    banda: file(relativePath: { eq: "banda.png" }) {
+    banda: file(name: { eq: "banda" }) {
       childImageSharp {
         # Specify the image processing specifigcations right in the query.
         # Makes it trivial to update as your page's design changes.
@@ -21,7 +21,7 @@ export default function Header() {
 `)
 
   return (
-    <Paper elevation={7} style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: '70px', background: "url('banda.png') no-repeat" }}>
+    <Paper elevation={7} style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: '70px', background: "url('/banda.png') no-repeat" }}>
       {/* <div style={{ width: '50%', maxWidth: '663px', backgroundImage: url("banda.png"); }}>
         <Img alt='' fluid={data.banda.childImageSharp.fluid} />
       </div> */}
