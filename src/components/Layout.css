@@ -17,3 +17,11 @@ footer {
   background-color: darkgray;
   margin-top: 30px;
 }
+
+/* remove menu when watching chatbot on mobile */
+@media screen and (max-width: 568px) {
+  .rsc {
+    position: absolute;
+    z-index: 10000;
+  }
+}
