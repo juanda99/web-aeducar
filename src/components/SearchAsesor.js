@@ -44,7 +44,7 @@ export default function SearchAsesor() {
         id="combo-box-demo"
         options={Colegios}
         getOptionLabel={(option) => option.name}
-        style={{ width: '95%', minWidth: '200px', maxWidth: '600px', margin: '30px' }}
+        style={{ width: '95%', minWidth: '200px', maxWidth: '600px' }}
         renderInput={(params) => <TextField {...params} label="Selecciona tu centro" />}
         onChange={handleChange}
       />

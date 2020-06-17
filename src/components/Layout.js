@@ -1,6 +1,7 @@
 import React from "react"
 import Container from '@material-ui/core/Container';
 import Header from './Header'
+import Footer from './Footer'
 import SidebarMenu from './SidebarMenu'
 import ChatBot from './ChatBot'
 import './Layout.css'
@@ -15,9 +16,7 @@ export default function Layout({ children }) {
           <Container maxWidth="lg" id="siteContent">
             {children}
           </Container>
-          <footer>
-            <p>Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar Footer sin especificar  </p>
-          </footer>
+          <Footer />
         </div>
         {typeof window !== 'undefined' && <ChatBot />}
       </div>

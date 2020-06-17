@@ -8,25 +8,25 @@ import VisibilityIcon from '@material-ui/icons/Visibility';
 
 export default function Course({ key, materia, curso, etapa, url, size, visitUrl }) {
   return (
-    <Paper elevation={3} key={key} style={{ display: 'flex', flexDirection: 'column', margin: '20px', flex: '1 1  400px' }}>
+    <Paper elevation={3} key={key} style={{ display: 'flex', flexDirection: 'column', margin: '10px', flex: '1 1 400px' }}>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: 'red', color: 'white', padding: '10px', minHeight: '80px' }}>
-        <Typography color="textSecondary" variant="h6" component="h2" color='inherit'>
+        <Typography color="textSecondary" variant="h6" component="h2" color='inherit' align="center">
           {materia}
         </Typography>
       </div>
       <div style={{ padding: '10px' }}>
 
-        <Typography color="textSecondary">
+        <Typography color="textSecondary" align="center">
           {etapa} - {curso}º
         </Typography>
-        <Typography variant="body2" component="p">
+        <Typography variant="body2" component="p" align="center">
           {size}
         </Typography>
 
       </div>
 
-      <div style={{ display: 'flex', padding: '10px', justifyContent: 'space-between' }}>
-        <a href={url} style={{ margin: '10px', textDecoration: 'none' }}>
+      <div style={{ display: 'flex', padding: '10px', justifyContent: 'space-between', flexWrap: 'wrap' }}>
+        <a href={url} style={{ padding: '10px', textDecoration: 'none', margin: '0 auto' }}>
           <Button
             variant="contained"
             color="primary"
@@ -35,7 +35,7 @@ export default function Course({ key, materia, curso, etapa, url, size, visitUrl
             Descargar
       </Button>
         </a>
-        <a href={visitUrl} style={{ display: 'flex', padding: '10px', textDecoration: 'none' }}>
+        <a href={visitUrl} target="_blank" style={{ display: 'flex', padding: '10px', textDecoration: 'none', margin: '0 auto' }}>
           <Button
             variant="contained"
             color="secondary"

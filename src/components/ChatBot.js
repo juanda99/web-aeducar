@@ -19,14 +19,12 @@ export default function ChatBot({ children }) {
 
   const [opened, setOpened] = useState(false);
 
-  console.log(opened, '+++++++++++++*****************************************+')
-
   return (
     <ThemeProvider theme={theme}>
       <ReactChatBot
         headerTitle="Soporte Aeducar"
         recognitionEnable={true}
-        speechSynthesis={{ enable: true, lang: 'es-ES' }}
+        // speechSynthesis={{ enable: true, lang: 'es-ES' }}
         opened={opened}
         toggleFloating={({ opened }) => {
           console.log(`calllled with ${opened}`)
@@ -49,7 +47,7 @@ export default function ChatBot({ children }) {
           },
           {
             id: '3',
-            message: 'Hola {previousValue}, encantada. Para comenzar, necesito que me digas cual es tu perfil en Aeducar.',
+            message: 'Hola {previousValue}, encantado. Para comenzar, necesito que me digas cual es tu perfil en Aeducar.',
             trigger: '4',
           },
 
@@ -83,7 +81,7 @@ export default function ChatBot({ children }) {
           {
             id: '104',
             component: (
-              <a href="www.marca.es">Web del marca</a>
+              <Link to="/faq/recuperar-contraseña">Problemas de acceso a Aeducar</Link>
             ),
             trigger: '196'
           },
@@ -135,7 +133,7 @@ export default function ChatBot({ children }) {
           {
             id: '204',
             component: (
-              <a href="www.marca.es">Web del marca</a>
+              <Link to="/faq/recuperar-contraseña">Problemas de acceso a Aeducar</Link>
             ),
             trigger: '296'
           },
@@ -149,7 +147,7 @@ export default function ChatBot({ children }) {
           {
             id: '221',
             message: 'Ponte en contacto con el gestor de Aeducar de tu centro educativo.',
-            trigger: '396',
+            trigger: '296',
           },
 
 
@@ -163,7 +161,7 @@ export default function ChatBot({ children }) {
             component: (
               <Link to='/asesoria'>Asesoría de Aeducar</Link>
             ),
-            trigger: '396'
+            trigger: '296'
           },
           {
             id: '296',
@@ -199,12 +197,12 @@ export default function ChatBot({ children }) {
           {
             id: '303',
             message: 'Si tienes problemas de acceso, consulta la siguiente url:',
-            trigger: '104',
+            trigger: '304',
           },
           {
             id: '304',
             component: (
-              <a href="www.marca.es">Web del marca</a>
+              <Link to="/faq/recuperar-contraseña">Problemas de acceso a Aeducar</Link>
             ),
             trigger: '396'
           },
@@ -249,7 +247,7 @@ export default function ChatBot({ children }) {
             id: '402',
             options: [
               { value: 1, label: 'Problemas de acceso', trigger: '403' },
-              { value: 2, label: 'Quiero matricular alumnos de forma masiva en cursos', trigger: '411' },
+              { value: 2, label: 'Quiero añadir nuevos alumnos de forma masiva', trigger: '411' },
               { value: 3, label: 'Quiero reiniciar todos los cursos de Aeducar para un nuevo curso escolar', trigger: '421' },
               { value: 4, label: 'Otro problema', trigger: '431' }
             ]
@@ -264,7 +262,7 @@ export default function ChatBot({ children }) {
           {
             id: '404',
             component: (
-              <a href="www.marca.es">Web del marca</a>
+              <Link to="/faq/recuperar-contraseña">Problemas de acceso a Aeducar</Link>
             ),
             trigger: '496'
           },
@@ -277,7 +275,7 @@ export default function ChatBot({ children }) {
           {
             id: '412',
             component: (
-              <a href="www.marca.es">Web del marca</a>
+              <Link to="/faq/subida-masiva-usuarios">Subir usuarios de forma masiva</Link>
             ),
             trigger: '496'
           },
@@ -291,7 +289,7 @@ export default function ChatBot({ children }) {
           {
             id: '422',
             component: (
-              <a href="www.marca.es">Web del marca</a>
+              <Link to="/faq/subir-cursos">Subir cursos</Link>
             ),
             trigger: '496'
           },

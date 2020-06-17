@@ -43,11 +43,11 @@ export default function SearchSchool() {
         id="combo-box-demo"
         options={Colegios}
         getOptionLabel={(option) => option.name}
-        style={{ width: '95%', minWidth: '200px', maxWidth: '600px', margin: '30px' }}
+        style={{ width: '95%', minWidth: '200px', maxWidth: '600px', marginBottom: '20px' }}
         renderInput={(params) => <TextField {...params} label="Selecciona tu centro" />}
         onChange={handleChange}
       />
-      <Button variant="contained" style={{ margin: 30, flex: '0 0 200px' }} color="primary" disabled={disabled} onClick={handleLoadSchool} ref={button} >
+      <Button variant="contained" style={{ margin: 30, marginTop: 10, flex: '0 0 200px' }} color="primary" disabled={disabled} onClick={handleLoadSchool} ref={button} >
         Acceder
       </Button>
       <Dialog

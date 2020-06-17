@@ -26,8 +26,9 @@ export default function Index({ data }) {
           alt="Captura pantalla plataforma educativa aeducar"
         />
         <h2 style={{ textAlign: 'center' }}>Acceder a aeducar</h2>
-        <SearchSchool />
       </Container>
+      <SearchSchool />
+
     </div>
   );
 }

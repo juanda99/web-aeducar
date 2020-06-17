@@ -85,6 +85,7 @@ export default function RepositorioCursos({ }) {
           />
         ))}
       </div>
-    </div>
+    </div >
+
   );
 }
