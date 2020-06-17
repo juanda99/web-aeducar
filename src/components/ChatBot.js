@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { ThemeProvider } from 'styled-components';
 import { Link } from 'gatsby'
 import ReactChatBot from 'react-simple-chatbot'
@@ -16,12 +16,22 @@ const theme = {
 };
 
 export default function ChatBot({ children }) {
+
+  const [opened, setOpened] = useState(false);
+
+  console.log(opened, '+++++++++++++*****************************************+')
+
   return (
     <ThemeProvider theme={theme}>
       <ReactChatBot
         headerTitle="Soporte Aeducar"
         recognitionEnable={true}
-        speechSynthesis={{ enable: true, lang: 'es' }}
+        speechSynthesis={{ enable: true, lang: 'es-ES' }}
+        opened={opened}
+        toggleFloating={({ opened }) => {
+          console.log(`calllled with ${opened}`)
+          setOpened(opened)
+        }}
         steps={[
           {
             id: '1',

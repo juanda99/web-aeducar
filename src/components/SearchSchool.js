@@ -38,16 +38,16 @@ export default function SearchSchool() {
   }
 
   return (
-    <div style={{ display: 'flex', justifyContent: 'center' }}>
+    <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap' }}>
       <Autocomplete
         id="combo-box-demo"
         options={Colegios}
         getOptionLabel={(option) => option.name}
-        style={{ width: '100%', maxWidth: '600px', margin: '30px' }}
+        style={{ width: '90%', minWidth: '200px', maxWidth: '600px', margin: '30px' }}
         renderInput={(params) => <TextField {...params} label="Selecciona tu centro" />}
         onChange={handleChange}
       />
-      <Button variant="contained" style={{ margin: 30 }} color="primary" disabled={disabled} onClick={handleLoadSchool} ref={button} >
+      <Button variant="contained" style={{ margin: 30, flex: '0 0 200px' }} color="primary" disabled={disabled} onClick={handleLoadSchool} ref={button} >
         Acceder
       </Button>
       <Dialog
