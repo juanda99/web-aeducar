@@ -27,27 +27,29 @@ export default function RepositorioCursos({ }) {
     <div>
       <h1>Repositorio de cursos</h1>
       <p>Puedes filtrar los resultados utilizando seleccionando de las siguientes etiquetas:</p>
-      <p>Etapa educativa:
-      {etapas.map(tag => (
-        <Chip
-          key={tag}
-          label={tag}
-          style={etapa === tag ? { backgroundColor: 'red', margin: '5px' } : { backgroundColor: 'white', margin: '5px' }}
-          onClick={() => changeEtapa(tag)}
-          variant="outlined"
-        />
-      ))}
-      </p>
-      <p> Curso:
-      {etapa === EP && [1, 2, 3, 4, 5, 6].map(tag => (
-        <Chip
-          key={`${etapa}-${tag}`}
-          label={tag}
-          style={curso === tag ? { backgroundColor: 'red', margin: '5px' } : { backgroundColor: 'white', margin: '5px' }}
-          onClick={() => changeCurso(tag)}
-          variant="outlined"
-        />
-      ))}
+      <p>Etapa educativa:</p>
+      <div>
+        {etapas.map(tag => (
+          <Chip
+            key={tag}
+            label={tag}
+            style={etapa === tag ? { backgroundColor: 'red', margin: '5px' } : { backgroundColor: 'white', margin: '5px' }}
+            onClick={() => changeEtapa(tag)}
+            variant="outlined"
+          />
+        ))}
+      </div>
+      <p> Curso: </p>
+      <div>
+        {etapa === EP && [1, 2, 3, 4, 5, 6].map(tag => (
+          <Chip
+            key={`${etapa}-${tag}`}
+            label={tag}
+            style={curso === tag ? { backgroundColor: 'red', margin: '5px' } : { backgroundColor: 'white', margin: '5px' }}
+            onClick={() => changeCurso(tag)}
+            variant="outlined"
+          />
+        ))}
         {etapa === ES && [1, 2, 3, 4].map(tag => (
           <Chip
             key={`${etapa}-${tag}`}
@@ -66,7 +68,7 @@ export default function RepositorioCursos({ }) {
             variant="outlined"
           />
         ))}
-      </p>
+      </div>
 
       <p>Hay un total de {filteredCursos.length} cursos:</p>
 
@@ -84,6 +86,5 @@ export default function RepositorioCursos({ }) {
         ))}
       </div>
     </div>
-
   );
 }
