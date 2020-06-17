@@ -43,7 +43,7 @@ export default function SearchSchool() {
         id="combo-box-demo"
         options={Colegios}
         getOptionLabel={(option) => option.name}
-        style={{ width: '90%', minWidth: '200px', maxWidth: '600px', margin: '30px' }}
+        style={{ width: '95%', minWidth: '200px', maxWidth: '600px', margin: '30px' }}
         renderInput={(params) => <TextField {...params} label="Selecciona tu centro" />}
         onChange={handleChange}
       />

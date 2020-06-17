@@ -53,7 +53,7 @@ export default function RepositorioImagenes({ data }) {
           variant="outlined"
         />
       ))}
-      <p>Hay un total de {filteredImages.length} imágenes</p>
+      <p>Hay un total de {filteredImages.length} imágenes: </p>
       <div style={{ display: 'flex', flexWrap: 'wrap' }}>
         {childElements}
       </div>

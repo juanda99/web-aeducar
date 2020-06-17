@@ -68,6 +68,8 @@ export default function RepositorioCursos({ }) {
         ))}
       </p>
 
+      <p>Hay un total de {filteredCursos.length} cursos:</p>
+
       <div style={{ display: 'flex', flexWrap: 'wrap' }}>
         {filteredCursos.map(curso => (
           <Course
