@@ -19,9 +19,11 @@ export default function SearchAsesor() {
 
   const handleChange = (event, value) => {
     const found = Colegios.some(colegio => value && value.name && colegio.name === value.name)
-    const asesores = Asesores.filter(asesor => asesor.cp === value.cp)
-    setSchool(value)
-    setAsesores(asesores)
+    if (found) {
+      const asesores = Asesores.filter(asesor => asesor.cp === value.cp)
+      setSchool(value)
+      setAsesores(asesores)
+    }
   }
 
   const handleClose = () => {
@@ -42,7 +44,7 @@ export default function SearchAsesor() {
         id="combo-box-demo"
         options={Colegios}
         getOptionLabel={(option) => option.name}
-        style={{ width: '100%', bottomMargin: '20px' }}
+        style={{ width: '100%', maxWidth: '600px', margin: '30px' }}
         renderInput={(params) => <TextField {...params} label="Selecciona tu centro" />}
         onChange={handleChange}
       />

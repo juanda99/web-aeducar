@@ -8,13 +8,14 @@ export default function Asesoria({ }) {
   return (
     <div>
       <h1>Asesoría</h1>
-      <p>El gestor de aeducar de cada centro dispone de un servicio de asesoría sobre el uso de la plataforma aeducar.
-      La forma habitual de resolución de consultas e incidencias es el envío de un ticket de soporte mediante la <a href="https://soportearagon.catedu.es/">plataforma de
-      soporte de Catedu</a>. En el video siguiente te mostramos como iniciar una consulta:</p>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/i5_T2la123g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <p>Selecciona tu centro educativo para ver tu centro de profesores de referencia y la persona de contacto. </p>
+      <p>Los profesores y el gestor de la plataforma educativa Aeducar, disponen de un servicio de asesoría sobre el uso de la herramienta.</p>
+      <p>Selecciona tu centro educativo para ver los datos de contacto de tu asesor: </p>
       <SearchAsesor />
-      <p>Consulta en el mapa los datos del centro de profesorado.</p>
+
+      <p>Para los gestores de Aeducar, la forma habitual de resolución de consultas e incidencias es el envío de un ticket de soporte mediante la <a href="https://soportearagon.catedu.es/">plataforma de
+      soporte de Catedu</a>.</p>
+
+      <p>Consulta en el mapa los datos de tu centro de profesorado.</p>
       <CustomMap center={position} zoom={8} markerText={"Hello, this is a marker"} />
     </div>
 
