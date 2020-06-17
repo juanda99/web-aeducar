@@ -32,7 +32,7 @@ export default function ChatBot({ children }) {
             id: '2',
             user: true,
             validator: (value) => {
-              if (/^[a-zA-Z]+$/.test(value)) return true
+              if (/^[a-z ªñáéíóú.A-Z]+$/.test(value)) return true
               return 'Venga, ¡dime tu nombre!'
             },
             trigger: '3',
