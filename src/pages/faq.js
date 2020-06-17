@@ -11,8 +11,8 @@ const Noticias = ({
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
   return (
-    <Container maxWidth="md">
-      <h1>Noticias de aeducar</h1>
+    <Container maxWidth="lg">
+      <h1>Preguntas frecuentes</h1>
       {Posts}
     </Container>
   )
@@ -27,7 +27,7 @@ export const pageQuery = graphql`
           id
           excerpt(pruneLength: 250)
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "MMMM DD, YYYY", locale: "es")
             slug
             title
           }

@@ -1,3 +1,4 @@
+// use for generating /src/faq mdx files, called from gatsby-node.js
 import React from "react"
 import { graphql } from "gatsby"
 import Container from '@material-ui/core/Container';
