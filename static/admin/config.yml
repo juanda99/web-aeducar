@@ -7,16 +7,6 @@ public_folder: /assets
 publish_mode: editorial_workflow
 
 collections:
-  - name: blog
-    label: Blog
-    folder: blog
-    create: true
-    fields:
-      - { name: path, label: Path }
-      - { name: date, label: Date, widget: datetime }
-      - { name: title, label: Title }
-      - { name: body, label: Body, widget: markdown }
-
   - name: "faq" # Used in routes, e.g., /admin/collections/blog
     label: "faq" # Used in the UI
     folder: "src/faq" # The path to the folder where the documents are stored
