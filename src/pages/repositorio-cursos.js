@@ -26,7 +26,10 @@ export default function RepositorioCursos({ }) {
   return (
     <div>
       <h1>Repositorio de cursos</h1>
-      <p>Puedes filtrar los resultados utilizando seleccionando de las siguientes etiquetas:</p>
+      <p>Te proporcionamos a continuación el listado de cursos confeccionados por el Ministerio de Educación
+      y Formación Profesional para las etapas formativas de Primaria, Secundaria y Bachillerato. Tienes la opción de
+       visualizarlos o descargarlos para su posterior importación en tu curso en Aeducar.</p>
+      <p>Puedes filtrar los resultados seleccionando las siguientes etiquetas:</p>
       <p>Etapa educativa:</p>
       <div>
         {etapas.map(tag => (

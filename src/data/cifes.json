@@ -49,8 +49,8 @@
     "address": "Calle Cervantes, 1, 44550 Alcorisa, Teruel",
     "tel": "+34978840357",
     "position": [
-      41.382258,
-      -0.5416152
+      40.8968973,
+      -0.3839629
     ]
   },
   {
@@ -87,6 +87,15 @@
     "position": [
       40.3527174,
       -1.1150887
+    ]
+  },
+  {
+    "name": "Centro Profesorado de Monzón",
+    "address": "Plaza Sta. María, 2, 22400 Monzón, Huesca",
+    "tel": "+34974403134",
+    "position": [
+      41.9100474,
+      0.191681
     ]
   }
 ]

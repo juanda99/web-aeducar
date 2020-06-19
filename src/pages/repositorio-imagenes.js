@@ -44,7 +44,7 @@ export default function RepositorioImagenes({ data }) {
   return (
     <div>
       <h1>Repositorio de imágenes</h1>
-      <p>Puedes filtrar los resultados utilizando seleccionando de las siguientes etiquetas:</p>
+      <p>Puedes filtrar los resultados seleccionando las siguientes etiquetas:</p>
       {allTags.map(tag => (
         <Chip
           label={tag}

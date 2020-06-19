@@ -48,7 +48,7 @@ export default function SearchSchool() {
         onChange={handleChange}
       />
       <Button variant="contained" style={{ margin: 30, marginTop: 10, flex: '0 0 200px' }} color="primary" disabled={disabled} onClick={handleLoadSchool} ref={button} >
-        Acceder
+        Entrar
       </Button>
       <Dialog
         open={open}

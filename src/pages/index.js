@@ -23,9 +23,9 @@ export default function Index({ data }) {
 
         <Img
           fluid={data.computerImage.childImageSharp.fluid}
-          alt="Captura pantalla plataforma educativa aeducar"
+          alt="Captura pantalla plataforma educativa Aeducar"
         />
-        <h2 style={{ textAlign: 'center' }}>Acceder a aeducar</h2>
+        <h2 style={{ textAlign: 'center' }}>Acceder a Aeducar</h2>
       </Container>
       <SearchSchool />
 
