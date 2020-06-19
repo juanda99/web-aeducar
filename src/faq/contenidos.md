@@ -1,7 +1,7 @@
 ---
-slug: "/faq/contenidos"
-date: "2017-11-07"
-title: "¿Qué contenidos se pueden alojar?"
+title: ¿Qué contenidos se pueden alojar?
+date: 2020-06-16T22:00:00.000Z
+slug: /faq/contenidos
 ---
 
 Permite crear contenidos nuevos o subir los que ya se tienen. 
