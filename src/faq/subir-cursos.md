@@ -23,7 +23,7 @@ Nos hará falta un fichero CSV contendrá una fila por cada curso que vaya a ser
 - *groupmodeforce*: a 1 para forzar el modo grupo en los cursos. 
 - *groupmode*: 0 para Sin grupos, 1 para Grupos separados y 2 para Grupos visibles.
 
-![Excel para subir curso a Moodle](./subir-cursos.png)  
+![Excel para subir curso a Moodle](/assets//subir-cursos.png)  
 
 
 Una vez creada la estructura de cursos en el fichero CSV, solicitaremos a través de la plataforma de soporte para Aeducar que suban este fichero a nuestra plataforma, ya que nuestra cuenta de gestión no tiene permisos suficientes para realizar esta acción.
