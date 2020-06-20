@@ -1,7 +1,7 @@
 ---
-slug: "/faq/subida-masiva-usuarios"
-date: "2017-11-07"
-title: "Subir usuarios de forma masiva"
+title: Subir usuarios de forma masiva
+date: 2020-06-14T22:00:00.000Z
+slug: /faq/subida-masiva-usuarios
 ---
 
 Para que el alumnado y el profesorado de nuestro centro puedan trabajar con Aeducar, necesitarán tener una cuenta con la que acceder a la plataforma.
