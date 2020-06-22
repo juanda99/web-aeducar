@@ -14,7 +14,7 @@ export default function Solicitud({ data }) {
       <p>La información completa la puedes leer en la <a href="https://educa.aragon.es/documents/20126/331199/Resoluci%C3%B3n+Aeducar+firmada.pdf/59f3f9be-ffda-1354-365d-55dd66f064de?t=1592310588513" target="_blank">resolución</a>.</p>
 
       <p>Las solicitudes se realizan desde la <a href="https://paddoc.aragon.es/" target="_blank">plataforma PADDOC</a> por el director del centro, rellenando un formulario. Es necesaria la figura de un
-      gestor de aeducar en el centro educativo, será quien resuelva las dudas de los profesores del centro. Contará siempre
+      gestor de Aeducar en el centro educativo, será quien resuelva las dudas de los profesores del centro. Contará siempre
       con la asesoría del centro de profesores de referencia.</p>
       <Img
         fluid={data.file.childImageSharp.fluid}

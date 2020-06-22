@@ -18,14 +18,14 @@ export default function Index({ data }) {
       </Container>
       <Container maxWidth="md">
         <h2 style={{ textAlign: 'center', fontWeight: '200', fontStyle: 'italic' }}>Plataforma educativa del Departamento de Educación, Cultura y Deporte del Gobierno de Aragón.</h2>
-
+    
 
 
         <Img
           fluid={data.computerImage.childImageSharp.fluid}
           alt="Captura pantalla plataforma educativa Aeducar"
         />
-        <h2 style={{ textAlign: 'center' }}>Acceder a Aeducar</h2>
+        <h2 style={{ textAlign: 'center' }}>Acceder  a Aeducar</h2>
       </Container>
       <SearchSchool />
 
