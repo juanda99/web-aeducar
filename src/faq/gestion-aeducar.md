@@ -1,6 +1,6 @@
 ---
 title: ¿Cómo se gestiona Aeducar?
-date: 2017-11-07
+date: 2020-06-09T23:00:00.000Z
 slug: /faq/gestion-aeducar
 ---
 
