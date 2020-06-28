@@ -7,7 +7,6 @@ const Noticias = ({
     allMdx: { edges },
   },
 }) => {
-  console.log(edges, '*******************************************************');
   const Posts = edges
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
@@ -28,7 +27,7 @@ export const pageQuery = graphql`
           id
           excerpt(pruneLength: 250)
           frontmatter {
-            date(formatString: "MMMM DD, YYYY", locale: "es")
+              date#(formatString: "MMMM DD, YYYY", locale: "es")
             slug
             title
           }
