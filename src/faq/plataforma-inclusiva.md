@@ -1,7 +1,7 @@
 ---
-slug: "/faq/plataforma-inclusiva"
-date: "2017-11-07"
-title: "¿Es una plataforma inclusiva?"
+title: ¿Es una plataforma inclusiva?
+date: 2020-06-09T22:00:00.000Z
+slug: /faq/plataforma-inclusiva
 ---
 
 Sí, en el diseño participan el Equipo TEA y el Equipo de Discapacidad Física. 
