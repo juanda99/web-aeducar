@@ -7,13 +7,15 @@ export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { mdx } = data // data.markdownRemark holds your post data
-  console.log(data)
   const { frontmatter, body } = mdx
+  const date = new Date(frontmatter.date);
+  const options = { year: 'numeric', month: 'long', day: 'numeric' };
+
   return (
     <Container maxWidth="md">
       <div className="blog-post">
         <h1>{frontmatter.title}</h1>
-        <h2>{frontmatter.date}</h2>
+        <h2>{date.toLocaleDateString('es-ES', options)}</h2>
         <MDXRenderer>{body}</MDXRenderer>
       </div>
 
@@ -26,7 +28,7 @@ export const pageQuery = graphql`
     mdx(frontmatter: { slug: { eq: $slug } }) {
       body
       frontmatter {
-        date(formatString: "MMMM DD, YYYY", locale: "es")
+        date#(formatString: "MMMM DD, YYYY", locale: "es")
         slug
         title
       }

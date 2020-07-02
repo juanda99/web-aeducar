@@ -1,7 +1,7 @@
 ---
-slug: "/faq/subida-masiva-usuarios"
-date: "2017-11-07"
-title: "Subir usuarios de forma masiva"
+title: Subir usuarios de forma masiva
+date: 2020-06-14T22:00:00.000Z
+slug: /faq/subida-masiva-usuarios
 ---
 
 Para que el alumnado y el profesorado de nuestro centro puedan trabajar con Aeducar, necesitarán tener una cuenta con la que acceder a la plataforma.
@@ -27,9 +27,9 @@ Entre los campos a completar para usuarios:
 
 Una vez hayamos preparado este fichero CSV, la carga de los usuarios es un proceso muy sencillo. Iremos a la opción Subir Usuarios y solo tendremos que seleccionar nuestro fichero CSV y cargarlo. 
 
-![](./subir-usuarios-1.png)
+![](/assets/subir-usuarios-1.png)
 
-![](./subir-usuarios-2.png)
+![](/assets/subir-usuarios-2.png)
 
 
 Nos aseguramos que como Delimitador CSV hemos elegido la coma (,) y que vamos a previsualizar un número de filas antes de que se proceda a la carga. Después pulsamos Subir usuarios.
@@ -38,6 +38,6 @@ Una vez hayamos pulsado en Subir usuarios, nos llevará a la página de previsua
 - Contraseña de nuevo usuario: campo requerido en el archivo
 - Estandarizar nombre de usuario: No
 
-![](./subir-usuarios-3.png)
+![](/assets/subir-usuarios-3.png)
 
 Una vez finalizado este proceso podremos comprobar desde Administración del sitio >> Usuarios >> Examinar lista de usuarios que se han incorporado correctamente en nuestra plataforma Aeducar. 

@@ -1,7 +1,7 @@
 ---
-slug: "/faq/gestion-aeducar"
-date: "2017-11-07"
-title: "¿Cómo se gestiona Aeducar"
+title: ¿Cómo se gestiona Aeducar?
+date: 2020-06-09T23:00:00.000Z
+slug: /faq/gestion-aeducar
 ---
 
 Cada centro deberá contar con una persona que realice las labores básicas de gestión de la plataforma que consisten en:
