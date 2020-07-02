@@ -23,14 +23,14 @@ const styles = {
     width: '24px'
   },
   bmCross: {
-    background: '#bdc3c7'
+    background: '#fff'
   },
   bmMenuWrap: {
     position: 'fixed',
     height: '100%'
   },
   bmMenu: {
-    background: '#f44336',
+    background: '#a83c42',
     padding: '2.5em 1.5em 0',
     fontSize: '1.15em'
   },
