@@ -18,7 +18,7 @@ export default function Index({ data }) {
       </Container>
       <Container maxWidth="md">
         <h2 style={{ textAlign: 'center', fontWeight: '200', fontStyle: 'italic' }}>Plataforma educativa del Departamento de Educación, Cultura y Deporte del Gobierno de Aragón.</h2>
-    
+
 
 
         <Img
