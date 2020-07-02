@@ -29,6 +29,12 @@ export default function Index({ data }) {
       </Container>
       <SearchSchool />
 
+      <h2 style={{ textAlign: 'center', marginTop: '50px' }}>Qué es Aeducar</h2>
+      <Img
+        fluid={data.aeducarDesc.childImageSharp.fluid}
+        alt="Captura pantalla plataforma educativa Aeducar"
+      />
+
     </div>
   );
 }
@@ -38,6 +44,13 @@ export const query = graphql`
     computerImage: file(relativePath: { eq: "captura-portatil-aeducar.png" }) {
       childImageSharp {
         fluid(maxWidth: 600) {
+          ...GatsbyImageSharpFluid
+        }
+      }   
+    },
+    aeducarDesc: file(relativePath: { eq: "aeducar-description.png" }) {
+      childImageSharp {
+        fluid {
           ...GatsbyImageSharpFluid
         }
       }   
