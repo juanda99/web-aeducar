@@ -27,6 +27,7 @@ export default function Index({ data }) {
         />
         <h2 style={{ textAlign: 'center' }}>Acceder  a Aeducar</h2>
       </Container>
+      <p style={{ textAlign: 'center' }}><em>Si tu centro no aparece en la lista es porque todavía no ha solicitado la plataforma Aeducar.</em></p>
       <SearchSchool />
 
       <h2 style={{ textAlign: 'center', marginTop: '50px' }}>Qué es Aeducar</h2>

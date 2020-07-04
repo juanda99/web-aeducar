@@ -60,7 +60,7 @@ export default function SearchSchool() {
         <DialogTitle id="alert-dialog-title">Acceso a aeducar</DialogTitle>
         <DialogContent>
           <DialogContentText id="alert-dialog-description">
-            El centro seleccionado no está dado de alta en la plataforma.
+            El centro seleccionado está a la espera de ser activado en la plataforma Aeducar.
           </DialogContentText>
         </DialogContent>
         <DialogActions>
