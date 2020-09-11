@@ -77,7 +77,7 @@ class SidebarMenu extends Component {
     return (
       <Menu isOpen={menuOpen} onStateChange={(state) => this.handleStateChange(state)} styles={styles} pageWrapId={'page-wrap'} outerContainerId={'outer-container'} right={false}>
         <Link onClick={this.closeMenu} to="/" style={styles.menuItem}>Inicio</Link>
-        <a href="https://view.genial.ly/5f4f488a4459460d91ab4b75/guide-aeducar-guia-docente" style={styles.menuItem}>Guía docente</a>
+        <Link onClick={this.closeMenu} to="/guia-docente" style={styles.menuItem}>Guía docente</Link>
         <Link onClick={this.closeMenu} to="/solicitud" style={styles.menuItem}>Alta en aeducar</Link>
         <Link onClick={this.closeMenu} to="/asesoria" style={styles.menuItem}>Asesoría</Link>
         <Link onClick={this.closeMenu} to="/repositorio-imagenes" style={styles.menuItem}>Repositorio de imágenes</Link>
