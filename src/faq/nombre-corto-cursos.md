@@ -1,5 +1,5 @@
 ---
-title: ¿Cuál es el nombre corto de los cursos precargados en aeducar?
+title: Nombres cortos de los cursos precargados en aeducar
 date: 2020-09-25T16:13:01.672Z
 slug: /faq/nombre-corto-cursos
 ---
