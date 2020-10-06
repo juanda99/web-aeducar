@@ -182,7 +182,7 @@
     "gestorEmail": "cpcauzaragoza@educa.aragon.es"
   },
   {
-    "url": "",
+    "url": "https://colealierta.aeducar.es",
     "name": "CEIP CESÁREO ALIERTA (Zaragoza)",
     "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)",
     "gestor": "José Miguel Tornero Carrasco",
@@ -227,8 +227,8 @@
     "url": "https://ceipdomingomiral.aeducar.es",
     "name": "CEIP DOMINGO MIRAL (Zaragoza)",
     "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)",
-    "gestor": "Jorge Moliner Noya",
-    "gestorEmail": "jmolinern@educa.aragon.es"
+    "gestor": "Víctor Muñoz Hernando",
+    "gestorEmail": "vmunnozh@educa.aragon.es"
   },
   {
     "url": "https://colegioeljusticiadearagon.aeducar.es",
@@ -483,7 +483,7 @@
     "gestorEmail": "cplitera@educa.aragon.es"
   },
   {
-    "url": "",
+    "url": "https://ciplosaranones.aeducar.es",
     "name": "CEIP LOS ARAÑONES (Canfranc-Estacion)",
     "cp": "CP DE SABIÑÁNIGO (SABIÑÁNIGO)",
     "gestor": "Carmen Álvarez Gracia",
@@ -651,6 +651,13 @@
     "gestorEmail": "fjmoran@educa.aragon.es"
   },
   {
+    "url": "https://cpcuarte.aeducar.es",
+    "name": "CEIP RAMÓN Y CAJAL (Cuarte de Huerva)",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)",
+    "gestor": "CRISTINA CIPRÉS MARGELÍ",
+    "gestorEmail": "ccmimm10@gmail.com"
+  },
+  {
     "url": "https://cppina.aeducar.es",
     "name": "CEIP RAMÓN Y CAJAL (Pina de Ebro)",
     "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)",
@@ -703,8 +710,8 @@
     "url": "https://sanjavier50790.aeducar.es",
     "name": "CEIP SAN JAVIER (Escatron)",
     "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)",
-    "gestor": "Alejandra Lucea Bes",
-    "gestorEmail": "cpsjescatron@educa.aragon.es"
+    "gestor": "Margarita Solano undefined",
+    "gestorEmail": "ceipsanjavierescatron@gmail.com"
   },
   {
     "url": "https://ceipsanjorgeherrera.aeducar.es",
@@ -1057,13 +1064,6 @@
     "gestorEmail": "ninesahun@hotmail.com"
   },
   {
-    "url": "",
-    "name": "CPEPA DE VALDERROBRES (Valderrobres)",
-    "cp": "CP DE ALCORISA (ALCORISA)",
-    "gestor": "Angeles Sahun Izquierdo",
-    "gestorEmail": "ninesahun@hotmail.com"
-  },
-  {
     "url": "https://elposito.aeducar.es",
     "name": "CPEPA EL PÓSITO (Tarazona)",
     "cp": "CP JUAN DE LANUZA (ZARAGOZA)",
@@ -1116,8 +1116,8 @@
     "url": "https://ricardosola.aeducar.es",
     "name": "CPEPA RICARDO SOLA (Zaragoza)",
     "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)",
-    "gestor": "Ana Cristina Mediel Elipe",
-    "gestorEmail": "elipme@gmail.com"
+    "gestor": "Noemí Vicente Vila",
+    "gestorEmail": "noew81@hotmail.com"
   },
   {
     "url": "https://cpepasomontano.aeducar.es",
@@ -1256,8 +1256,8 @@
     "url": "https://efaboalares.aeducar.es",
     "name": "CPRI-FPE E.F.A. BOALARES (Ejea de los Caballeros)",
     "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)",
-    "gestor": "adolfo Martin Utrillas",
-    "gestorEmail": "adolfo@efasdearagon.es"
+    "gestor": "Jorge Eugenio Bergua Diez",
+    "gestorEmail": "jorgebergua@efasdearagon.es"
   },
   {
     "url": "https://efalanoria.aeducar.es",
@@ -1265,13 +1265,6 @@
     "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)",
     "gestor": "MARIA ISABEL CABEZA DRONDA",
     "gestorEmail": "isabel@efasdearagon.es"
-  },
-  {
-    "url": "https://santaagatoclia.aeducar.es",
-    "name": "CPRI-FPE SANTA AGATOCLIA (Mequinenza)",
-    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)",
-    "gestor": "Afra Pascual undefined",
-    "gestorEmail": "afriki4@gmail.com"
   },
   {
     "url": "https://minte.aeducar.es",
@@ -1757,7 +1750,14 @@
     "gestorEmail": "antoniomolpeceres@iesvirgendelpilar.com"
   },
   {
-    "url": "",
+    "url": "https://plusultraformacion.aeducar.es",
+    "name": "Plus Ultra Formación.",
+    "cp": "CP CENTRO DE INNOVACIÓN PARA LA FORMACIÓN PROFESIONAL DE ARAGÓN (ZARAGOZA)",
+    "gestor": "jose antonio agudo sanchez",
+    "gestorEmail": "agudosanchez@gmail.com"
+  },
+  {
+    "url": "https://siessegundodechomon.aeducar.es",
     "name": "SIES SEGUNDO DE CHOMÓN (Cantavieja)",
     "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)",
     "gestor": "Álvaro Santamaría Iruzubieta",
