@@ -7,6 +7,13 @@
     "gestorEmail": "jgimenopj@gmail.com"
   },
   {
+    "url": "https://ceeangelriviere.aeducar.es",
+    "name": "CEE ANGEL RIVIÈRE (Zaragoza)",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)",
+    "gestor": "José Luis Puente de Mena",
+    "gestorEmail": "ceeangelriviere@gmail.com"
+  },
+  {
     "url": "https://piaget.aeducar.es",
     "name": "CEE JEAN PIAGET (ZARAGOZA)",
     "cp": "CP JUAN DE LANUZA (ZARAGOZA)",
@@ -217,6 +224,13 @@
     "gestorEmail": "mcomenge77@hotmail.com"
   },
   {
+    "url": "https://ceipunduesdelerda.aeducar.es",
+    "name": "CEIP DE UNDUÉS DE LERDA (Undues de Lerda)",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)",
+    "gestor": "LUCAS GRACIA MUÑOZ",
+    "gestorEmail": "lucasgm91@gmail.com"
+  },
+  {
     "url": "https://ceipdoctorazua.aeducar.es",
     "name": "CEIP DOCTOR AZÚA (Zaragoza)",
     "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)",
@@ -348,6 +362,13 @@
     "cp": "CP JUAN DE LANUZA (ZARAGOZA)",
     "gestor": "Esther Sainz Dito",
     "gestorEmail": "esdito@gmail.com"
+  },
+  {
+    "url": "https://isidorogildejaz.aeducar.es",
+    "name": "CEIP ISIDORO GIL DE JAZ (Sos del Rey Catolico)",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)",
+    "gestor": "GEMA NAVARRO PESCADOR",
+    "gestorEmail": "gemanavarropescador@gmail.com"
   },
   {
     "url": "https://ceipzurita.aeducar.es",
@@ -649,6 +670,13 @@
     "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)",
     "gestor": "FRANCISCO JAVIER MORA NEBRA",
     "gestorEmail": "fjmoran@educa.aragon.es"
+  },
+  {
+    "url": "https://cpchalamera.aeducar.es",
+    "name": "CEIP RAMÓN J. SENDER (Chalamera)",
+    "cp": "CP DE MONZÓN (MONZÓN)",
+    "gestor": "Laura Soriano Juste",
+    "gestorEmail": "laurasorianojuste@hotmail.com"
   },
   {
     "url": "https://cpcuarte.aeducar.es",
@@ -1211,6 +1239,13 @@
     "gestorEmail": "marianmartinez@lpz.hfi.org.es"
   },
   {
+    "url": "https://colegiolospueyos.aeducar.es",
+    "name": "CPRI-EE LOS PUEYOS (Villamayor de Gallego)",
+    "cp": "CP JUAN DE LANUZA (ZARAGOZA)",
+    "gestor": "Javier Asensio undefined",
+    "gestorEmail": "javierasensio@pueyos.org"
+  },
+  {
     "url": "https://maria-soriano.aeducar.es",
     "name": "CPRI-EE MARÍA-SORIANO (Zaragoza)",
     "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)",
@@ -1307,6 +1342,13 @@
     "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)",
     "gestor": "Francisco Gútiez Peiro",
     "gestorEmail": "pacogutiez@escolapiaspompiliano.es"
+  },
+  {
+    "url": "https://colegioromareda.aeducar.es",
+    "name": "CPRI-INPRISE ROMAREDA (Zaragoza)",
+    "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)",
+    "gestor": "Marta Villanueva Sáenz",
+    "gestorEmail": "mvillanueva@colegioromareda.com"
   },
   {
     "url": "https://safa.aeducar.es",
@@ -1568,6 +1610,13 @@
     "gestorEmail": "raquel.peregrina@gmail.com"
   },
   {
+    "url": "https://eoiejea.aeducar.es",
+    "name": "EOI DE EJEA DE LOS CABALLEROS (Ejea de los Caballeros)",
+    "cp": "CP DE EJEA DE LOS CABALLEROS (EJEA DE LOS CABALLEROS)",
+    "gestor": "MARIA PILAR IGLESIAS ASENSIO",
+    "gestorEmail": "miglesia.eoi@gmail.com"
+  },
+  {
     "url": "https://eoitarazona.aeducar.es",
     "name": "EOI DE TARAZONA (Tarazona)",
     "cp": "CP JUAN DE LANUZA (ZARAGOZA)",
@@ -1748,6 +1797,13 @@
     "cp": "CP MARÍA DE ÁVILA (ZARAGOZA)",
     "gestor": "Antonio Molpeceres López",
     "gestorEmail": "antoniomolpeceres@iesvirgendelpilar.com"
+  },
+  {
+    "url": "https://inspeccioneducacionteruel.aeducar.es",
+    "name": "Inspección de Educación de Teruel",
+    "cp": "CP ÁNGEL SANZ BRIZ (TERUEL)",
+    "gestor": "José Luis Castán Esteban",
+    "gestorEmail": "jlcastan@aragon.es"
   },
   {
     "url": "https://plusultraformacion.aeducar.es",
