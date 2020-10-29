@@ -6,6 +6,7 @@ import SearchSchool from '../components/SearchSchool'
 
 
 export default function Index({ data }) {
+  console.log(data, "**************************")
   return (
     <div>
       <Container maxWidth="xs">
