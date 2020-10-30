@@ -6,7 +6,6 @@ import SearchSchool from '../components/SearchSchool'
 
 
 export default function Index({ data }) {
-  console.log(data, "**************************")
   return (
     <div>
       <Container maxWidth="xs">
@@ -19,8 +18,6 @@ export default function Index({ data }) {
       </Container>
       <Container maxWidth="md">
         <h2 style={{ textAlign: 'center', fontWeight: '200', fontStyle: 'italic' }}>Plataforma educativa del Departamento de Educación, Cultura y Deporte del Gobierno de Aragón.</h2>
-
-
 
         <Img
           fluid={data.computerImage.childImageSharp.fluid}
@@ -43,12 +40,12 @@ export default function Index({ data }) {
 
 export const query = graphql` 
   query {
-    computerImage: file(relativePath: { eq: "captura-portatil-aeducar.png" }) {
+    computerImage: file(relativePath: { eq: "captura-portatil-aeducar.jpg" }) {
       childImageSharp {
-        fluid(maxWidth: 600) {
+        fluid(maxWidth: 1200) {
           ...GatsbyImageSharpFluid
         }
-      }   
+      }  
     },
     aeducarDesc: file(relativePath: { eq: "aeducar-description.png" }) {
       childImageSharp {
