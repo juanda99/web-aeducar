@@ -34,6 +34,9 @@ Nos aseguramos que como Delimitador CSV hemos elegido la coma (,) y que vamos a 
 Una vez hayamos pulsado en Subir usuarios, nos llevará a la página de previsualización donde además de ver el listado de usuarios a cargar, debajo de este listado nos aparecerá una serie de configuraciones donde deberemos dejar los siguientes valores en los siguientes ajustes antes de pulsar Subir archivo:
 
 * Contraseña de nuevo usuario: campo requerido en el archivo
+* Prevenir duplicados de dirección email: No
 * Estandarizar nombre de usuario: No
+
+![opciones de subida](/assets/subir-usuarios-3.png "Opciones de Subida de usuarios")
 
 Una vez finalizado este proceso podremos comprobar desde Administración del sitio >> Usuarios >> Examinar lista de usuarios que se han incorporado correctamente en nuestra plataforma Aeducar.
