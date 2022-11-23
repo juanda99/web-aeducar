@@ -1,6 +1,6 @@
 ---
 title: Subidas masivas de usuarios  (gestión de centro).
-date: 2020-10-06T07:30:06.764Z
+date: 2022-11-22T07:30:06.764Z
 slug: /faq/subidausuarios
 ---
 Una vez configurada la estructura de cursos y categorías y en cada inicio de curso, las personas responsables de la gestión del centro pueden, con el asesoramiento de su Centro del Profesorado, subir de forma masiva los usuarios, es decir, las cuentas para los docentes y los estudiantes, así como su matriculación en cursos.
