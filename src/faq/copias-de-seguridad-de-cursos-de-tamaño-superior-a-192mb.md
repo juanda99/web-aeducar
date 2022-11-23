@@ -1,6 +1,6 @@
 ---
 title: Copias de seguridad de cursos de tamaño superior a 192Mb
-date: 2020-10-06T07:53:13.029Z
+date: 2022-11-22T07:53:13.029Z
 slug: /faq/cursosmasde192
 ---
 
