@@ -5,7 +5,7 @@ slug: /faq/subidausuarios
 ---
 Una vez configurada la estructura de cursos y categorías y en cada inicio de curso, las personas responsables de la gestión del centro pueden, con el asesoramiento de su Centro del Profesorado, subir de forma masiva los usuarios, es decir, las cuentas para los docentes y los estudiantes, así como su matriculación en cursos.
 
-Esto se hace subiendo un archivo csv al aeducar como se indica en el [curso de formación](https://moodle.catedu.es/course/view.php?id=924) (acceder como invitado) y en [la documentación de Moodle](https://docs.moodle.org/all/es/37/Subir_usuarios)
+Esto se hace subiendo un archivo csv al aeducar como se indica en el [curso de formación](https://libros.catedu.es/books/gestion-de-aeducar-en-un-centro-educativo/page/1-como-matricular-alumnado-y-profesorado-de-forma-masiva) y en [la documentación de Moodle](https://docs.moodle.org/all/es/37/Subir_usuarios)
 
 Estos procesos son parcialmente automatizables y se ha desarrollado una aplicación web en [csv.aeducar.es](csv.aeducar.es) para generar completa o parcialmente ese csv a partir de las descargas de GIR o SIGAD.
 
