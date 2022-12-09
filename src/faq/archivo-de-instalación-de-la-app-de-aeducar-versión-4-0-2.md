@@ -1,6 +1,6 @@
 ---
 title: Archivo de instalación de la APP de Aeducar, versión 4.0.2
-date: 2022-03-25T13:30:43.688Z
+date: 2022-12-09T12:00:00.688Z
 slug: /faq/apk-aeducar
 ---
 Buenos días.
