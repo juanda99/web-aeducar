@@ -82,7 +82,7 @@ class SidebarMenu extends Component {
         <Link onClick={this.closeMenu} to="/asesoria" style={styles.menuItem}>Asesoría</Link>
         <Link onClick={this.closeMenu} to="/repositorio-imagenes" style={styles.menuItem}>Repositorio de imágenes</Link>
         <Link onClick={this.closeMenu} to="/repositorio-cursos" style={styles.menuItem}>Repositorio de cursos</Link>
-        <Link onClick={this.closeMenu} to="/tutoriales" style={styles.menuItem}>Tutoriales</Link>
+        <!--Link onClick={this.closeMenu} to="/tutoriales" style={styles.menuItem}>Tutoriales</Link-->
         <Link onClick={this.closeMenu} to="/faq" style={styles.menuItem}>Preguntas frecuentes</Link>
       </Menu>
     )
