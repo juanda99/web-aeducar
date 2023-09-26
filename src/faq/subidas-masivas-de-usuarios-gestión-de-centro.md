@@ -1,14 +1,14 @@
 ---
 title: Subidas masivas de usuarios  (gestión de centro).
-date: 2022-11-22T07:30:06.764Z
+date: 2023-09-26T07:30:06.764Z
 slug: /faq/subidausuarios
 ---
-Una vez configurada la estructura de cursos y categorías y en cada inicio de curso, las personas responsables de la gestión del centro pueden, con el asesoramiento de su Centro del Profesorado, subir de forma masiva los usuarios, es decir, las cuentas para los docentes y los estudiantes, así como su matriculación en cursos.
+Una vez configurada la estructura de cursos y categorías y en cada inicio de curso, las personas responsables de la gestión del centro, con el asesoramiento de su Centro de Profesorado, pueden subir de forma masiva los usuarios, es decir, las cuentas para profesorado y alumnado, así como su matriculación en cursos.
 
-Esto se hace subiendo un archivo csv al aeducar como se indica en el [curso de formación](https://libros.catedu.es/books/gestion-de-aeducar-en-un-centro-educativo/page/1-como-matricular-alumnado-y-profesorado-de-forma-masiva) y en [la documentación de Moodle](https://docs.moodle.org/all/es/37/Subir_usuarios)
+Esto se hace subiendo un fichero csv a la plataforma Aeducar. El procedimiento está explicado en el [curso de formación Gestión de Aeducar en un centro educativo](https://moodle.catedu.es/course/view.php?id=921) 
 
-Estos procesos son parcialmente automatizables y se ha desarrollado una aplicación web en [csv.aeducar.es](csv.aeducar.es) para generar completa o parcialmente ese csv a partir de las descargas de GIR o SIGAD.
+En este curso se explica cómo es el fichero CSV necesario para la carga masiva de usuarios y el concepto de cohorte, para quien le pueda resultar más cómodo trabajar con este concepto que básicamente es el conjunto de personas de una clase. De esta manera permite matricular a todo este conjunto en cada materia de vez. 
 
-En relación con el alumnado, este csv generado tiene como posibilidad (recomendada) la organización por cohortes, dado que su alternativa, la matriculación directa para primaria, implementada ya en csv.aeducar.es está dando problemas debido a la riqueza de la nomenclatura y la variedad de organizaciones de centro.
+Además en el curso se presenta la aplicación web [csv.aeducar.es](csv.aeducar.es) que facilita la creación de este fichero CSV a partir de los datos que podemos descargar desde GIR o SIGAD. En la propia web de esta herramienta aparece las instrucciones de uso y un vídeo explicativo muy detallado de cómo generar este fichero CSV y después subirlo a la plataforma.
 
-Puedes leer más sobre la creación asistida del csv en [este vídeo](http://youtu.be/3jlNUmzcHLo?hd=1) y sobre esta organización por cohortes en [esta presentación](https://docs.google.com/presentation/d/e/2PACX-1vQzcK1GQK22O61pmpCVsF4hzRU4JyDLh5ozJxkSPrOLOynYIMC-l_Ga1JzRL54r3aiPgcLsyjLdHB2M/pub?start=false&loop=false&delayms=3000&slide=id.p) o este [hilo del foro de soporte](https://soportearagon.catedu.es/boards/2/topics/9)
+Siempre puedes ampliar la información sobre la suida de usuarios acudiendo a [la documentación oficial de Moodle](https://docs.moodle.org/all/es/38/Subir_usuarios)
