@@ -7,7 +7,7 @@ Una vez configurada la estructura de cursos y categorías y en cada inicio de cu
 
 Esto se hace subiendo un fichero csv a la plataforma Aeducar del centro educativo. 
 
-El procedimiento está explicado en el [curso de formación Gestión de Aeducar en un centro educativo](https://moodle.catedu.es/course/view.php?id=921) que puedes encontrar en Aularagón y que está siempre abierto su acceso para su consulta.  
+El procedimiento está explicado en el [curso de formación Gestión de Aeducar en un centro educativo](https://moodle.catedu.es/course/view.php?id=921).  
 
 En este curso se explica cómo es el fichero CSV necesario para la carga masiva de usuarios y el concepto de cohorte o conjunto de estudiantes de una clase, para poder matricular a todo este conjunto en cada materia de una vez. 
 
