@@ -1,6 +1,6 @@
 ---
 slug: "/faq/cursos-formacion"
-date: "2020-6-07"
+date: "2020-10-03"
 title: "Cursos de formación en Aeducar"
 ---
 
