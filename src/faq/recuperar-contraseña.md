@@ -10,4 +10,4 @@ Si tu usuario tiene una dirección de correo electrónico real asociada a su cue
 
 Si el usaurio NO tiene una dirección de correo electrónico real asociada a su cuenta de usuario, por ejemplo por tratarse de la cuenta de usuario de alumnado menor de edad, entonces deberá dirigirse a la persona encargada de la gestión de Aeducar en su centro que podrá restablecerle la contraseña.
 
-Lo tienes explicado en la siguiente página del curso Comenzamos con nuestra aula en Aeducar: https://libros.catedu.es/books/comenzamos-con-nuestra-aula-en-aeducar-v4-SrB/page/1-como-acceder-a-la-plataforma
+Lo tienes explicado en la siguiente página del curso Comenzamos con nuestra aula en Aeducar: https://libros.catedu.es/books/comenzamos-con-nuestra-aula-en-aeducar-v4/page/1-como-acceder-a-la-plataforma
