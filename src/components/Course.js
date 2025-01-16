@@ -26,17 +26,7 @@ export default function Course({ key, materia, curso, etapa, url, size, visitUrl
       </div>
 
       <div style={{ display: 'flex', padding: '10px', justifyContent: 'space-between', flexWrap: 'wrap' }}>
-        <!--
-        <a href={url} style={{ padding: '10px', textDecoration: 'none', margin: '0 auto' }}>
-          <Button
-            variant="contained"
-            color="primary"
-            startIcon={<CloudDownloadIcon />}
-          >
-            Descargar
-      </Button>
-        </a>
-        -->
+        
         <a href={visitUrl} target="_blank" style={{ display: 'flex', padding: '10px', textDecoration: 'none', margin: '0 auto' }}>
           <Button
             variant="contained"
