@@ -27,8 +27,10 @@ export default function RepositorioCursos({ }) {
     <div>
       <h1>Repositorio de cursos</h1>
       <p>Te proporcionamos a continuación el listado de cursos confeccionados por el Ministerio de Educación
-      y Formación Profesional para las etapas formativas de Primaria, Secundaria y Bachillerato. Tienes la opción de
-       visualizarlos o descargarlos para su posterior importación en tu curso en Aeducar.</p>
+      y Formación Profesional para las etapas formativas de Primaria, Secundaria y Bachillerato. Desde esta página 
+       puedes consultar su contenido y si quieres importarlo en tu curso tienes las copias de seguridad de estos cursos 
+       en el repositorio "institucional" del Aeducar de tu centro educativo. Si tienes cualquier duda puedes escribir a 
+       soporteaeducar@educa.aragon.es </p>
       <p>Puedes filtrar los resultados seleccionando las siguientes etiquetas:</p>
       <p>Etapa educativa:</p>
       <div>
