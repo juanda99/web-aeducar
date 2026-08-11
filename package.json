@@ -29,7 +29,7 @@
     "gatsby-source-youtube": "^2.2.0",
     "gatsby-source-youtube-v2": "^1.0.1",
     "gatsby-transformer-json": "^2.4.4",
-    "gatsby-transformer-remark": "^2.8.15",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.5.4",
     "leaflet": "^1.6.0",
     "netlify-cms-app": "^2.12.15",
